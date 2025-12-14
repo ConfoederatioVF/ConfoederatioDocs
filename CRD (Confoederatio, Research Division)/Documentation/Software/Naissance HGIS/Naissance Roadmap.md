@@ -16,11 +16,12 @@ S+00: Preparation Work
 	- ve.DAG (Directed Acyclic Graph)
 	- ve.Graph
 		- Echarts GUI bindings with UI Editor that can take in CSVs via ve.Table and a documentation guide on how to format data for different chart types
+	- ve.ObjectInspector
 	- ve.NodeEditor
 	- ve.NodeEditorExpression - Iterates over an Array\<Object\> and executes a function per object, unless `arg1_options.singleton=true`
 	- ve.NodeEditorFilter - Returns an Array\<Object\>
 	- ve.ScriptManager should be able to configure a build list of multiple files using file patterns and ve.List
-	- ve.SearchSelect (see Discord for more information)
+	- ve.SearchSelect (see Discord for more information) DONE
 	- ve.WYSIWYG should be updated to use all Vercengen components
 	  
 	- Vercengen should have template strings for positioning Windows that dynamically adjust the X/Y coords based on the height/width of other Windows
