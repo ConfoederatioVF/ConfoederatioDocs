@@ -8,6 +8,7 @@ See also: [[History]], [[Naissance Issues]], [[Naissance Roadmap]]
 
 > [!NOTE]
 > For legacy documentation relating to the first version of Naissance, see [[Naissance]].
+> [Download Naissance HGIS 1.6](https://drive.google.com/file/d/1EOlYJIlfkR0MV5wcqGoxb-g--5gkRKKx/view?usp=sharing)
 
 **Naissance** is a historical GIS (HGIS) for any and all data, including data entry, proxy modelling, processing, visualisation, and simulation while being as frictionless as possible. To avoid UI/UX bloat, user interfaces are planned to take inspiration from game design, especially map-related grand-strategy/economy games.
 

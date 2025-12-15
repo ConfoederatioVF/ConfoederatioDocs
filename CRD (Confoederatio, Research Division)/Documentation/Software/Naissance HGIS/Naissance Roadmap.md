@@ -9,9 +9,15 @@ S+00: Preparation Work
 	- Masks for Groups:
 		- Difference from Brush
 		- Intersection for Brush
-	- Mask Operations for Groups:
-		- Clip Group to Brush Intersection
-		- Difference Brush from Group
+	- Group Operations:
+		- Mask Operations for Groups:
+			- Clip Group to Brush Intersection
+			- Difference Brush from Group
+		- Merge Operations:
+			- Merge Groups
+				- Polygons are mutually exclusive
+- Settings:
+	- Confirmation prompt for deleting Groups/Layers (veToggle)
 - Update Vercengen for Naissance HGIS's needed capabilities: (this should be worked on first)
 	- ve.DAG (Directed Acyclic Graph)
 	- ve.Graph
