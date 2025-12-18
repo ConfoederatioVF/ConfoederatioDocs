@@ -23,9 +23,16 @@ S+00: Preparation Work
 	- ve.Graph
 		- Echarts GUI bindings with UI Editor that can take in CSVs via ve.Table and a documentation guide on how to format data for different chart types
 	- ve.ObjectInspector
-	- ve.NodeEditor
+	- ve.NodeEditor. The way the NodeEditor will work is as follows:
+		- Any Nodes with no dependencies are marked as root nodes, from which execution will start
+		- The graph will then be executed sequentially from root nodes. Only once all dependencies have been resolved will the graph continue execution (subject to polling interval)
+		- Any circular dependencies (nodes that have already been visited) will be subjected to the automatic polling time upon graph execution
+		
+		- ve.DAG executors compose ve.NodeEditor types for distributed compute
 	- ve.NodeEditorExpression - Iterates over an Array\<Object\> and executes a function per object, unless `arg1_options.singleton=true`
+		- Expressions mutate data and return a value
 	- ve.NodeEditorFilter - Returns an Array\<Object\>
+		- Filters fetch data from state and filter them down alluvially
 	- ve.ScriptManager should be able to configure a build list of multiple files using file patterns and ve.List
 	- ve.SearchSelect (see Discord for more information) DONE
 	- ve.WYSIWYG should be updated to use all Vercengen components
