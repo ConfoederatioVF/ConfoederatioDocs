@@ -12,7 +12,7 @@ cover: https://i.postimg.cc/J7SgyNxT/embed-template-vercengen.png
 > Read our documentation [website](https://confoederatio.org/Vercengen)! 
 ### Abstract.
 
-See also: [[Vercengen Releases]]
+See also: [[Vercengen Plans]] | [[Vercengen Releases]]
 
 Vercengen is an immediate mode frontend software engine developed for Confoederatio wth a focus on rapid application development (RAD), in which UI/UX is simply part of your state. It is used as the main frontend for most Confoederatio applications and provides simple adjustable CSS themes by tinkering with variables.
 
