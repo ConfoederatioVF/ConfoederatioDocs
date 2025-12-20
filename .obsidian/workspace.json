@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
+                "file": "📰 Blogs/9 December 2025 - Closing the Ring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercengen NodeEditor"
+              "title": "9 December 2025 - Closing the Ring"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureLayer.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FeatureLayer"
+              "title": "Vercengen NodeEditor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62ca19e64e25b570",
@@ -61,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
+                "file": "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercengen Plans"
+              "title": "19 December 2025 - Confoederatio 2.0"
             }
           }
         ],
@@ -234,17 +235,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dc198fb330743c75",
+  "active": "c94ccd2344cdb42c",
   "lastOpenFiles": [
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
+    "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureLayer.md",
+    "📰 Blogs/9 December 2025 - Closing the Ring.md",
+    "_images/ctd/vercengen",
+    "_images/ctd/vercengen/vercengen_node_editor_prototype.png",
+    "Home.md",
+    "📰 Blogs/6 December 2025 - The Long Road Ahead.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance HGIS.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance Roadmap.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureSketchMap.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryLine.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureLayer.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/Naissance Geometries.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Naissance Entities.md",
     "🗒️ Gists/CAD/Obsidian Publish Documentation.md",
@@ -263,12 +270,7 @@
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance Issues.md",
     "🗒️ Gists/CTD/Midnight Maintenance.md",
     "CRD (Confoederatio, Research Division)/Plans/Naissance/1.7b Agulhas Plan.md",
-    "CRD (Confoederatio, Research Division)/Plans/Naissance/Naissance Label Editor.md",
-    "CRD (Confoederatio, Research Division)/Plans/Naissance/1.6b Falkland Plan.md",
-    "Home.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Legacy/Naissance/Naissance.md",
     "_images/crd/naissance/GeometryPoint_1.5b.png",
-    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Naissance Symbol.md",
     "_images/crd/constele_red/constele_red_logo.png",
     "_images/crd/constele_red",
     "_images/crd/Neuer Ordner",
@@ -278,10 +280,8 @@
     "_images/crd/naissance/NaissanceSymbol_1.5b.png",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Eoscala/Papers",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Papers",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Velkscala",
     "_images/blogs/naissance_09.12.2025.png",
     "_images/embed_template_vercengen.png",
-    "_images/embed_template.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
