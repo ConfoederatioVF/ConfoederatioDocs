@@ -29,10 +29,10 @@ All dates are prospective and given as deadlines, rather than when they commence
 	- Confoederatio Docs completeness
 	- Naissance HGIS data portal/livemap capability
 - 31 December 2026: Finish database polish work
-	- Stadestér 1.1 (currently 1.0)
-	- Eoscala 1.5 (currently 1.2)
-	- Velkscala 1.0 (currently 0.7)
-	- Atlas 1.0, intermittent work on Atlas via Naissance HGIS
+	- Stadestér 1.1 (currently 1.0) - historical urban data
+	- Eoscala 1.5 (currently 1.2) - historical economic data
+	- Velkscala 1.0 (currently 0.7) - historical demographic data
+	- Atlas 1.0, intermittent work on Atlas via Naissance HGIS. Currently substituted with Cliopatria. Historical boundary data
 
 It is naturally all about leverage. We first intend to work on our software engine (Vercengen), then use said software engine to build an integrated research environment (Naissance HGIS) to which we can port existing models/database code and ensure their self-consistency and reproducibility.
 

@@ -6,7 +6,7 @@ The **Variables Editor** in [[Naissance HGIS]] determines when variables are mut
 Variables in the keyframe display should update instantly and be reflective of changes in the editor.
 ## Special Columns/Rows:
 
-`A Column`: YYYY.MM.DD.HH.MM. (i.e. `-3000.11.20.15.03`. 
+`A Column`: YYYY.MM.DD.HH.MM. (i.e. `-3000.11.20.15.03`). 
 - May contain leading zeroes. Negative numbers represent BC, Positive numbers represent AD. If populated at that row, the rest of the row will be treated as values that should be pushed to the [[History]] of the corresponding entity.
 `1 Row`: string
 - If the A column is populated, then the first row of each spreadsheet will become the CSV-style header from which variable names are drawn.
