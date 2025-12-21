@@ -7,13 +7,13 @@ Remaining logic:
 	- options.dag_sequence should be deprecated DONE
 	- All unique .node_editor instances should be run DONE
 
-- fromJSON/toJSON implementation for ve.NodeEditorDatatype
-- fromJSON/toJSON implementation for ve.NodeEditor
+- fromJSON/toJSON implementation for ve.NodeEditorDatatype DONE
+- fromJSON/toJSON implementation for ve.NodeEditor DONE
 
-- Only same types can connect to each other
-  - `.output_type` implementation
-- Alluvial width functions
-- .preview_mode=true for special\_function
+- Only same types can connect to each other DONE
+  - `.output_type` implementation DONE
+- Alluvial width functions DONE
+- .preview_mode=true for special\_function DONE
 - Run/execution menu, alongside pausing execution
 - Node editor settings implementation
-- get v()/set v() serialisation
+- get v()/set v() serialisation DONE

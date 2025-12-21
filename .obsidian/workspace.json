@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "c94ccd2344cdb42c",
+            "id": "0c1173dd68793ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Metadata/Naissance Variables Editor.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naissance Variables Editor"
-            }
-          },
-          {
-            "id": "cca1937f9cb6a37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vercengen Releases"
+              "title": "Vercengen Plans"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "62ca19e64e25b570",
@@ -69,8 +55,23 @@
               "icon": "lucide-file",
               "title": "GeometryPolygon"
             }
+          },
+          {
+            "id": "bac0e3c71e8f03e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vercengen NodeEditor"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vercengen Releases"
+              "title": "Outline of Vercengen NodeEditor"
             }
           }
         ],
@@ -234,21 +235,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cca1937f9cb6a37b",
+  "active": "8cafb33fb70c3314",
   "lastOpenFiles": [
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
-    "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.20.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "📰 Blogs/9 December 2025 - Closing the Ring.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Metadata/Naissance Variables Editor.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.20.md",
     "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureLayer.md",
-    "📰 Blogs/9 December 2025 - Closing the Ring.md",
     "_images/ctd/vercengen",
     "_images/ctd/vercengen/vercengen_node_editor_prototype.png",
     "Home.md",
     "📰 Blogs/6 December 2025 - The Long Road Ahead.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance HGIS.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
@@ -269,7 +271,6 @@
     "CRD (Confoederatio, Research Division)/Documentation/Software/Constele Red/Constele Red.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/UI/Leftbar Hierarchy.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPoint.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance Issues.md",
     "_images/crd/naissance/GeometryPoint_1.5b.png",
     "_images/crd/constele_red/constele_red_logo.png",
     "_images/crd/constele_red",

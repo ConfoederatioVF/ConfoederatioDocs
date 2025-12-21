@@ -5,6 +5,7 @@ description: Roadmap and planning outlines for Vercengen, particularly for Compo
 
 The following is a list of plans that represent the continuous roadmap for Vercengen.
 
-| Plan                     | Type      | Status | Date             |
-| ------------------------ | --------- | ------ | ---------------- |
-| [[Vercengen NodeEditor]] | Component | WIP    | 19 December 2025 |
+| Plan                       | Type      | Status | Date             |
+| -------------------------- | --------- | ------ | ---------------- |
+| [[Vercengen DatavisSuite]] | Component | WIP    | 21 December 2025 |
+| [[Vercengen NodeEditor]]   | Component | WIP    | 19 December 2025 |
