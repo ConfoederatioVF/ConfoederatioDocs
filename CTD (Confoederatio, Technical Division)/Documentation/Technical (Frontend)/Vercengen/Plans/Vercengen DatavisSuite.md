@@ -21,7 +21,7 @@ The composite graph also has multiple symbols available:
 **The important thing is to support all Echarts API bindings naturally. View them here:** [Echarts API](https://echarts.apache.org/en/option.html)
 In terms of timing, the basic framework (such that only new types of GraphCharts and bindings must be created) should be finished by the end of the current year (2025).
 ## TODO Components
-- Finish 'All' tab for ve.NodeEditor
+- Finish 'All' tab for ve.NodeEditor DONE
 - ve.DatavisSuite
 	- ve.Graph
 	- ve.GraphChart

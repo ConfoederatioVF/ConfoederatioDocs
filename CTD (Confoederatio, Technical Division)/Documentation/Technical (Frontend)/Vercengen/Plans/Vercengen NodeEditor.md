@@ -10,10 +10,11 @@ Remaining logic:
 - fromJSON/toJSON implementation for ve.NodeEditorDatatype DONE
 - fromJSON/toJSON implementation for ve.NodeEditor DONE
 
+- Finish adding All tab in toolbox DONE
 - Only same types can connect to each other DONE
   - `.output_type` implementation DONE
 - Alluvial width functions DONE
 - .preview_mode=true for special\_function DONE
-- Run/execution menu, alongside pausing execution
-- Node editor settings implementation
+- Run/execution menu, alongside pausing execution REVISIT
+- Node editor settings implementation REVISIT
 - get v()/set v() serialisation DONE
