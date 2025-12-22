@@ -1,4 +1,5 @@
 #Y2025 #TODO #plans #vercengen
+See also: [[Vercengen Plans]]
 ## Description
 
 **Data Series**:
