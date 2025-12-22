@@ -26,8 +26,8 @@ In terms of timing, the basic framework (such that only new types of GraphCharts
 	- ve.GraphChart
 	- ve.GraphLegend
 	- ve.GraphText
-	- ve.ObjectInspector
-		- Options per ObjectInspector so that they can be expanded/closed at will
+	- ve.ObjectInspector DONE
+		- Options per ObjectInspector so that they can be expanded/closed at will DONE
 ## TODO
 
 Add Chart button/Remove Chart button with drag and drop table layout
