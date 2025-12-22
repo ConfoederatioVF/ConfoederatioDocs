@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vercengen Releases"
+              "title": "Outline of Vercengen DatavisSuite"
             }
           }
         ],
@@ -263,15 +263,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "12f8c9f9a864aa85",
+  "active": "5aece4da96dadf5f",
   "lastOpenFiles": [
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
     "📰 Blogs/9 December 2025 - Closing the Ring.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Metadata/Naissance Variables Editor.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.20.md",
     "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureLayer.md",
