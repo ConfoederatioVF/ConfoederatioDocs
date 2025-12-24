@@ -1,0 +1,14 @@
+- Finish adding graphs
+- Finish reordering graph components in Graph Editor
+- Resizeable flex partitions between td cells
+	- [https://codesandbox.io/p/sandbox/sad-butterfly-1fwo4?file=%2Fsrc%2Findex.js](https://codesandbox.io/p/sandbox/sad-butterfly-1fwo4?file=%2Fsrc%2Findex.js "https://codesandbox.io/p/sandbox/sad-butterfly-1fwo4?file=%2Fsrc%2Findex.js")
+	- Needs to be implemented as ve.FlexInterface with a JSON equivalent XML structure and raw HTML element handling
+- Get graph editor up to a state where it can create and handle Echarts line graphs
+
+- Finish adding all graph types
+- Finish polishing NodeEditor
+- Finish polishing ScriptManager so that it has resizeable flex partitions and can function as an actual IDE
+	- Add Ctrl + F/Ctrl + H shortcuts for find/replace
+	- Add in-line JSDoc markdown/HTML parsing
+	- Links would require namespace binding; so JSDoc parsing should be done at a project-wide level
+	- Project Folder settings

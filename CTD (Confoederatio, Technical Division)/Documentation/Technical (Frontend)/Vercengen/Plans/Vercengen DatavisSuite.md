@@ -23,6 +23,8 @@ The composite graph also has multiple symbols available:
 In terms of timing, the basic framework (such that only new types of GraphCharts and bindings must be created) should be finished by the end of the current year (2025).
 ## TODO Components
 - Finish 'All' tab for ve.NodeEditor DONE
+- ==Array.fromSpreadsheetCell(arg0_cell_string)==
+- ==String.getSpreadsheetCell(arg0_x, arg1_y)==
 - ve.DatavisSuite
 	- ve.Graph
 	- ve.GraphChart

@@ -102,6 +102,9 @@ word_editor = veWindow({
 }, { name: "Word Editor", width: "40rem" });
 ```
 
+**Other Examples by Component:**
+- [[Hierarchy Example|Hierarchy]] (Scene tree)
+- [[NodeEditor Example|NodeEditor]] (DSL implementation)
 ### Getting Started.
 
 Bootstrap:
