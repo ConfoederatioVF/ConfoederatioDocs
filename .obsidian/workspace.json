@@ -71,35 +71,35 @@
             }
           },
           {
-            "id": "bac0e3c71e8f03e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vercengen Plans"
-            }
-          },
-          {
             "id": "5aece4da96dadf5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.24.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Polish 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP 2025.12.24"
+              "title": "Vercengen Polish 1"
+            }
+          },
+          {
+            "id": "d0b98906bc01f64b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vercengen DatavisSuite"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.24.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Polish 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WIP 2025.12.24"
+              "title": "Outline of Vercengen Polish 1"
             }
           }
         ],
@@ -265,20 +265,21 @@
   },
   "active": "5aece4da96dadf5f",
   "lastOpenFiles": [
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
     "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.24.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 0.95b Ghassulian.md",
+    "CTD (Confoederatio, Technical Division)/Plans/Balance of Power/Untitled.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 0.95b Ghassulian.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/Hierarchy Example.md",
     "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.20.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples",
     "📰 Blogs/9 December 2025 - Closing the Ring.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Polish 1.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Metadata/Naissance Variables Editor.md",
     "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Features/FeatureLayer.md",
@@ -298,7 +299,6 @@
     "_images/embed_template_naissance.png.0.pdnSave",
     "_images/embed_template_naissance.pdn",
     "_images/embed_template_naissance.pdn.0.pdnSave",
-    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Map/Base Layer.md",
     "_images/crd/naissance/FeatureTileLayer_1.6b.png",
     "_images/crd/naissance/GeometryPoint_1.5b.png",
     "_images/crd/constele_red/constele_red_logo.png",

@@ -1,6 +1,11 @@
 #Y2026 #vercengen
 See also: [[Vercengen Plans]]
 
+ve.Hierarchy
+- No drag and drop between hierarchies unless they share the same `.namespace`
+- `getOrder()` function for ve.HierarchyDatatype, returns a flat array
+- Fix the ability to drag elements above disabled elements (this should not be possible)
+
 ve.NodeEditor
 - arg1_options:
 	- .settings: Object
