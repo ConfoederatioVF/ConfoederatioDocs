@@ -103,6 +103,7 @@ word_editor = veWindow({
 ```
 
 **Other Examples by Component:**
+- [[FlexInterface Example|FlexInterface]]
 - [[Hierarchy Example|Hierarchy]] (Scene tree)
 - [[NodeEditor Example|NodeEditor]] (DSL implementation)
 ### Getting Started.

@@ -1,0 +1,61 @@
+Typically known within Echarts as `.tooltip`.
+
+- .show=true: boolean - Echarts: `.show`
+- .trigger="item": string - Echarts: `.trigger`. Either 'axis'/'item'/'none'.
+
+- .always_show_content=false: boolean - Echarts: `.alwaysShowContent`
+- .class_name: string - Echarts `.className`
+- .confine=false: boolean - Echarts `.confine`
+- .display_transition=true: number - Echarts: `.displayTransition`
+- .enterable=true: number - Echarts: `.enterable
+- .show_content=true: boolean - Echarts: `.showContent`
+- .show_delay: number - Echarts: `.showDelay`
+- .hide_delay=100: number - Echarts: `.hideDelay`
+- .position: string[] - Echarts: `.position`
+- .transitionDuration=0.4: number - Echarts: `.transitionDuration`
+- .trigger_on="mousemove": string - Echarts: `.triggerOn` - Either 'mousemove'/'click'/'mousemove|click'/'none'.
+- .render_mode="html": string - Echarts: `.renderMode` - Either 'html'/'richText'.
+  
+- .axis_pointer: Object - Echarts: `.axisPointer`
+	- .show=true: boolean - Echarts: `.axisPointer.show`
+	  
+	- .axis="auto" - Echarts: `.axisPointer.axis`. Either 'auto'/'x'/'y'/'radius'/'angle'.
+	- .initial_animation: Object
+		- .delay: function|number - Echarts: `.axisPointer.animationDelay`. If a function, must return a number.
+		- .delay_update: number|function - Echarts: `.axisPointer.animationDelayUpdate`
+		- .duration=1000: number - Echarts: `.axisPointer.animationDuration`
+		- .duration_update=200: number - Echarts: `.axisPointer.animationDurationUpdate`
+		- .easing="cubicOut": string - Echarts: `.axisPointer.animationEasing` - Easing effects must be predefined, see [Echarts Easing Examples](https://echarts.apache.org/examples/en/editor.html?c=line-easing)
+		- .easing_update: string - Echarts: `.axisPointer.animationEasingUpdate`
+		- .threshold=2000: number - Echarts: `.axisPointer.animationThreshold`
+		  `
+	- .cross_style: Object - Echarts: `.axisPointer.crossStyle`
+		- .cap="butt": string - Echarts: `.axisPointer.crossStyle.cap` - Either 'butt'/'round'/'square'.
+		- .colour="#555": string - Echarts: `.axisPointer.crossStyle.color`
+		- .dash_offset: number - Echarts: `.axisPointer.crossStyle.dashOffset`
+		- .join="bevel": string - Echarts: `.axisPointer.crossStyle.join` - Either 'bevel'/'round'/'miter'.
+		- .miter_limit=10: number - Echarts: `.axisPointer.crossStyle.miterLimit`
+		- .opacity=1: number - Echarts: `.axisPointer.crossStyle.opacity`
+		- .shadow_blur: number - Echarts: `.axisPointer.crossStyle.shadowBlur`
+		- .shadow_colour: string - Echarts: `.axisPointer.crossStyle.shadowColor`
+		- .shadow_offset_x: number - Echarts: `.axisPointer.crossStyle.shadowOffsetX`
+		- .shadow_offset_y: number - Echarts: `.axisPointer.crossStyle.shadowOffsetY`
+		- .type="dashed": string - Echarts: `.axisPointer.crossStyle.type` - Either 'solid'/'dashed'/'dotted'.
+		- .width=1: number - Echarts: `.axisPointer.crossStyle.width`
+	- .label_symbol: [[Echarts Label Symbol]] - Echarts: `.axisPointer.label`
+	- .line_symbol: [[Echarts Stroke Symbol]] - Echarts: `.axisPointer.lineStyle
+	- .shadow_blur: number - Echarts `.axisPointer.shadowBlur`
+	- .shadow_colour="#000": string - Echarts: `.axisPointer.shadowColor`
+	- .shadow_offset_x: number - Echarts: `.axisPointer.shadowOffsetX`
+	- .shadow_offset_y: number - Echarts: `.axisPointer.shadowOffsetY
+	- .type="line" - Echarts: `.axisPointer.type`. Either 'line'/'shadow'/'none'/'cross'.
+	- .snap: boolean - Echarts: `.axisPointer.snap`
+	- .z_index: number - Echarts: `.axisPointer.z`
+- .background_colour="rgba(50, 50, 50)": string - Echarts: `.backgroundColor`
+- .background_opacity=0.7: number - Echarts: `.backgroundColor`
+- .border_colour="#333": string - Echarts: `.borderColor`
+- .border_width: number - Echarts: `.borderWidth`
+- .formatter - Echarts: `.formatter` - {a} = Series name, {b} = name of a data item, {c} = value of a data item, {@xxx} - The value of a diemsnion named 'xxx', {@\[n\]} - The value of a dimension at the index of n. 
+- .order: string - Echarts: `.order` - Either 'seriesAsc'/'seriesDesc'/'valueAsc'/'valueDesc'. 'Asc' = ascending, 'Desc' = descending.
+- .padding: number[] - Echarts: `.padding`
+- .text_symbol: [[Echarts Text Symbol]] - Echarts `.textStyle`

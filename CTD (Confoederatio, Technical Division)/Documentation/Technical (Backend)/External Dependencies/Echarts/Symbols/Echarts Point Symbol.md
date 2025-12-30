@@ -1,0 +1,26 @@
+Often referred to internally as `itemStyle` by Echarts.
+
+- .border_cap="butt": string - Echarts: `.borderCap` - Either 'butt'/'round'/'square'
+- .border_colour="#000": string - Echarts: `.borderColor`
+- .border_dash_offset: number - Echarts: `.borderDashOffset`
+- .border_join="bevel": string - Echarts: `.borderJoin` - Either 'bevel'/'round'/'miter'
+- .border_miter_limit=10: number - Echarts: `.borderMiterLimit`
+- .border_type="solid": string - Echarts: `.borderType`
+- .border_width=0: number - Echarts: `.borderWidth`
+- .colour: string - Echarts: `.color`
+- .decal: Object - Echarts: `.decal` - Only activated if `../.areaStyle` is set. Both `aria.enabled` and `aria.decal.show` must be both set to true.
+	- .background_colour: string - Echarts: `.decal.backgroundColor`
+	- .colour: string - Echarts: `.decal.color`
+	- .dash_array_x=5: number - Echarts: `.decal.dashArrayX`
+	- .dash_array_y=5: number - Echarts: `.decal.dashArrayY`
+	- .max_tile_height=512: number - Echarts: `.decal.maxTileHeight`
+	- .max_tile_width=512: number - Echarts: `.decal.maxTileWidth`
+	- .rotation: number - Echarts: `.decal.rotation`
+	- .symbol="rect": string - Echarts: `.decal.symbol` - Either 'circle'/'rect'/'roundRect'/'triangle'/'diamond'/'pin'/'arrow'/'none'.
+	- .symbol_keep_aspect=true: boolean - Echarts: `.decal.symbolKeepAspect`
+	- .symbol_size=1: number - Echarts: `.decal.symbolSize`
+- .opacity=1: number - Echarts: `.opacity` - Value from 0 to 1.
+- .shadow_blur: number - Echarts `.shadowBlur`
+- .shadow_colour="#000": string - Echarts: `.shadowColor`
+- .shadow_offset_x: number - Echarts: `shadowOffsetX`
+- .shadow_offset_y: number - Echarts: `shadowOffsetY

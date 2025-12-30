@@ -1,0 +1,43 @@
+Referred to internally as `label` by Echarts, without a `Symbol` suffix.
+
+- .show: boolean - Echarts: `show`
+- .color="#fff": string - Echarts: `.color`
+- .formatter - Echarts: `.formatter` - {a} = Series name, {b} = name of a data item, {c} = value of a data item, {@xxx} - The value of a diemsnion named 'xxx', {@\[n\]} - The value of a dimension at the index of n. 
+- .fontFamily="sans-serif": string - Echarts: `.fontFamily`
+- .fontSize=12: number - Echarts: `.fontSize`
+- .fontStyle="normal": string - Echarts: `.fontStyle` - Either 'normal'/'italic'/'oblique'.
+- .fontWeight="normal": string - Echarts: `.fontWeight` - Either 'bold'/'bolder'/'normal'/'lighter'.
+- .height: number - Echarts: `.height`
+- .width: number - Echarts: `.width`
+  
+- .background_colour="transparent": string - Echarts: `.backgroundColor`
+- .border_colour: string - Echarts: `.borderColor
+- .border_dash_offset: number - Echarts: `.borderDashOffset`
+- .border_radius: number - Echarts: `.borderRadius`
+- .border_type: string - Echarts: `.borderType` - Either 'solid'/'dashed'/'dotted'.`
+- .border_width: number - Echarts: `.borderWidth`
+- .distance=5: number - Echarts: `.distance`
+- .ellipsis="...": string - Echarts: `.ellipsis`
+- .line_height: number - Echarts: `.lineHeight`
+- .offset: Array<number, number> - Echarts: `.offset`
+- .overflow="none": string - Echarts: `.overflow` - Either 'truncate'/'break'/'breakAll'.
+- .min_margin: number - Echarts: `.minMargin`
+- .padding: number[] - Echarts: `.padding`. Max of 4 elements.
+- .text_align_horizontal="left": string - Echarts: `.align` - Either 'left'/'center'/'right'.
+- .text_align_vertical="middle": string - Echarts: `.verticalAlign` - Either 'top'/'middle'/'bottom'.
+- .text_border_colour: string - Echarts: `.textBorderColor
+- .text_border_dash_offset: number - Echarts: `.textBorderDashOffset`
+- .text_border_type: string - Echarts: `.textBorderType` - Either 'solid'/'dashed'/'dotted'.`
+- .text_border_width: number - Echarts: `.textBorderWidth`
+- .text_margin: Array<number, number> - Echarts: `.textMargin`
+- .text_shadow_blur: number - Echarts: `.textShadowBlur`
+- .text_shadow_colour="transparent": string - Echarts: `.textShadowColor`
+- .text_shadow_offset_x: number - Echarts: `.textShadowOffsetX`
+- .text_shadow_offset_y: number - Echarts: `.textShadowOffsetY`
+- .rotate=0: number - Echarts: `.rotate`
+- .position="top": string - Echarts: `.position` - Either 'top'/'left'/'right'/'bottom'/'inside'/'insideLeft'/'insideRight'/'insideTop'/'insideBottom'/'insideTopLeft'/'insideBottomLeft'/'insideTopRight'/'insideBottomRight'.
+  
+- .shadow_blur: number - Echarts `.shadowBlur`
+- .shadow_colour="#000": string - Echarts: `.shadowColor`
+- .shadow_offset_x: number - Echarts: `.shadowOffsetX`
+- .shadow_offset_y: number - Echarts: `.shadowOffsetY
