@@ -1,3 +1,3 @@
-Stands for Work in Progress (WIP). This is typically bracketed like so: [WIP] so that it is easily searchable across different contexts in Confoederatio instead of being part of a plain string.
+Stands for Work in Progress (WIP). This is typically bracketed like so: \[WIP\] so that it is easily searchable across different contexts in Confoederatio instead of being part of a plain string.
 
-Some `[WIP]` markers may be outdated in codebases and already solved. In these cases, it is okay to delete the marker. If any pages accidentally link to here, it means that they have been double bracketed instead: `[[WIP]]`.
+Some `[WIP]` markers may be outdated in codebases and already solved. In these cases, it is okay to delete the marker. If any pages accidentally link to here, it means that they have been double bracketed instead: `[[WIP]]`. If you come across any such broken links, please tell a member of [[Confoederatio]].

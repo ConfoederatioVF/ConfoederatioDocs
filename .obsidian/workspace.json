@@ -13,36 +13,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 Proposed Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeEditor Example"
+              "title": "Stadestér 1.1 Proposed Methodology"
+            }
+          },
+          {
+            "id": "536ef801e3b9ea45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans/Stadestér 1.1 TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stadestér 1.1 TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62ca19e64e25b570",
         "type": "tabs",
         "children": [
           {
-            "id": "c61fd99b50eb76ba",
+            "id": "a6e41604e150d4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GeometryPolygon"
+              "title": "Stadestér"
             }
           },
           {
-            "id": "d0b98906bc01f64b",
+            "id": "32a9b88172763a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +70,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NodeEditor Example"
+              "title": "Outline of Stadestér"
             }
           }
         ],
@@ -221,45 +235,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c1173dd68793ac2",
+  "active": "a6e41604e150d4fb",
   "lastOpenFiles": [
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
     "Home.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans/Stadestér 1.1 TODO.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.1a Substratum.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.2a Rhapta.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.3b Alexandria Eschate.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.4b Caracol.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.0 Edo.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.0.1 Rome.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 Proposed Methodology.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 OLD TODO.md",
+    "().md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1 Methodology.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1",
+    "Untitled.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans",
+    "Projects.md",
+    "Confoederatio.md",
+    "FAQs.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
+    "🗒️ Gists/CTD/WIP.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "Templates/Update Website.md",
     "Templates/Page Count.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
-    "!Update Page Count.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
     "Templates",
     "publish.js",
     "Textdokument (neu).txt",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Animated Scatterplot.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Eoscala/Eoscala.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Analytical Engine.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal/(Internal) Map Data Scripting.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Backlog.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Variables.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Scopes.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Effects.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Conditionals.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Mod File Structure.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal/(Global, Internal) Custom UIs.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal/(Global, Internal) config.md",
-    "CTD (Confoederatio, Technical Division)/List of CTD Plans.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External",
     "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal",
-    "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.31.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 0.95b Ghassulian.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Scatterplot.md",
-    "CTD (Confoederatio, Technical Division)/Plans/2025.12.20.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Turf.js",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts",
     "_images/ctd/vercengen/vercengen_preview_01.png",
-    "_images/ctd/vercengen/vercengen_preview_01.png.0.pdnSave",
     "_images/ctd/vercengen/vercengen_ObjectInspector.png",
     "_images/ctd/vercengen/vercengen_datavis_suite_prototype.png",
     "_images/ctd/vercengen/vercengen_node_editor_prototype.png",
