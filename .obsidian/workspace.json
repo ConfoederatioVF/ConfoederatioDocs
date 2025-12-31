@@ -20,65 +20,8 @@
               "icon": "lucide-file",
               "title": "NodeEditor Example"
             }
-          },
-          {
-            "id": "03d3a6cdd32d52f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vercengen Plans"
-            }
-          },
-          {
-            "id": "fe775a11d1dd28b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Bindings"
-            }
-          },
-          {
-            "id": "944e2162476ce90c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Tree"
-            }
-          },
-          {
-            "id": "4c872f3dc7dd53f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Scatterplot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Scatterplot"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "62ca19e64e25b570",
@@ -104,44 +47,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echarts Label Symbol"
-            }
-          },
-          {
-            "id": "799f303a11002463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Animated Scatterplot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Animated Scatterplot"
-            }
-          },
-          {
-            "id": "34aa1c1547ae18aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Treemap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Treemap"
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Echarts Bindings"
+              "title": "Outline of NodeEditor Example"
             }
           }
         ],
@@ -302,52 +217,53 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fe775a11d1dd28b8",
+  "active": "0c1173dd68793ac2",
   "lastOpenFiles": [
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Treemap.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Tree.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Scatterplot.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Animated Scatterplot.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Radar.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Point Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
+    "Home.md",
+    "Templates/Update Website.md",
+    "Templates/Page Count.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
+    "!Update Page Count.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
+    "Templates",
+    "publish.js",
+    "Textdokument (neu).txt",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Animated Scatterplot.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Eoscala/Eoscala.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Analytical Engine.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal/(Internal) Map Data Scripting.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Backlog.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Variables.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Scopes.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Effects.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Deepscript Conditionals.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External/Mod File Structure.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal/(Global, Internal) Custom UIs.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal/(Global, Internal) config.md",
+    "CTD (Confoederatio, Technical Division)/List of CTD Plans.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/External",
+    "CTD (Confoederatio, Technical Division)/Documentation/Games/Analytical Engine/Internal",
+    "CTD (Confoederatio, Technical Division)/Plans/WIP 2025.12.31.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 0.95b Ghassulian.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Scatterplot.md",
+    "CTD (Confoederatio, Technical Division)/Plans/2025.12.20.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
-    "Echarts Tooltip Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Turf.js",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/FlexInterface Example.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/Hierarchy Example.md",
-    "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
-    "📰 Blogs/26 December 2025 - What Is A Graph, Anyway.md",
     "_images/ctd/vercengen/vercengen_preview_01.png",
     "_images/ctd/vercengen/vercengen_preview_01.png.0.pdnSave",
     "_images/ctd/vercengen/vercengen_ObjectInspector.png",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen DatavisSuite.md",
     "_images/ctd/vercengen/vercengen_datavis_suite_prototype.png",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Polish 1.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples",
-    "_images/ctd/vercengen",
     "_images/ctd/vercengen/vercengen_node_editor_prototype.png",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans",
     "_images/embed_template_naissance.png",
-    "_images/embed_template_naissance.png.0.pdnSave",
-    "_images/embed_template_naissance.pdn",
     "_images/crd/naissance/FeatureTileLayer_1.6b.png",
     "_images/crd/naissance/GeometryPoint_1.5b.png",
     "_images/crd/constele_red/constele_red_logo.png",

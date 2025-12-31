@@ -3,6 +3,8 @@ cover: https://i.postimg.cc/qvvmDC6H/embed-template.png
 description: Centralised documentation for all Confoederatio projects. If this is the homepage, please select the project you are looking for.
 ---
 
+<h2 align="right"><b><!-- COUNT_START -->117<!-- COUNT_END --></b> Pages</h2>
+
 <div align = "center">
 An ongoing project on the full documentation of all projects managed by Confoederatio and their histories.<br>
 <sub><i><u>Verc et haut et svargestent!</i></u></sub><br><br>
@@ -38,7 +40,7 @@ All datasets and documents, alongside accompanying research notes and code, are 
 
 <table class = "cd-home nav-table">
 <tr><td style = "padding:0;border:0;" width = "50%"><a href = "https://confoederatiodocs.info/CTD+(Confoederatio%2C+Technical+Division)/Documentation/Technical+(Frontend)/Vercengen/Vercengen"><img src = "_images/banners/ctd_vercengen.png"></a></td><td style = "padding:0;border:0;padding-left: 0.25rem;" width = "50%"><img src = "_images/banners/ctd_banner.png"></td>
-<tr><td style = "padding:0;border:0;" width = "50%"><img src = "_images/banners/ctd_analytical_engine.png"></td><td style = "padding:0;border:0;padding-left: 0.25rem;" width = "50%"><img src = "_images/banners/ctd_games_or_other.png"></td>
+<tr><td style = "padding:0;border:0;" width = "50%"><a href = "https://confoederatiodocs.info/CTD+(Confoederatio%2C+Technical+Division)/Documentation/Games/Analytical+Engine/Analytical+Engine"><img src = "_images/banners/ctd_analytical_engine.png"></a></td><td style = "padding:0;border:0;padding-left: 0.25rem;" width = "50%"><img src = "_images/banners/ctd_games_or_other.png"></td>
 </table>
 
 <div align = "center"><h4>Subnavigation by Division:</h4></div>

@@ -3,5 +3,7 @@
   "obsidian-charts",
   "sheets",
   "markdown-table-editor",
-  "image-captions"
+  "image-captions",
+  "templater-obsidian",
+  "dataview"
 ]
