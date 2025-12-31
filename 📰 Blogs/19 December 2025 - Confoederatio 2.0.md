@@ -20,9 +20,18 @@ And what makes up **Confoederatio26**? Why, the transformation of Confoederatio 
 All dates are prospective and given as deadlines, rather than when they commence.
 
 - 31 January 2026: [[Vercengen]] 1.0 Release
-	- ve.Graph
-	- ve.NodeEditor
-	- ve.NodeEditorDatatype
+	- ve.DatavisSuite WIP
+	- ve.FlexInterface DONE
+	- ve.Graph WIP
+	- ve.GraphLegend WIP
+	- ve.GraphText WIP
+	- ve.NodeEditor DONE
+	- ve.NodeEditorDatatype DONE
+	- ve.ObjectInspector DONE
+	- ve.Table
+	- Renaming Vercengen components
+- 31 March 2026:  [[Stadestér 1.1 Cusco]] Release
+- 31 April 2026: [[Velkscala 1.0]] Release
 - 31 July 2026: [[Naissance HGIS]] 1.0 Release
 - 31 August 2026: Web infrastructure work
 	- https://confoederatio.org/ modernisation work

@@ -13,61 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 Proposed Methodology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stadestér 1.1 Proposed Methodology"
-            }
-          },
-          {
-            "id": "536ef801e3b9ea45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans/Stadestér 1.1 TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stadestér 1.1 TODO"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "62ca19e64e25b570",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6e41604e150d4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stadestér"
-            }
-          },
-          {
-            "id": "32a9b88172763a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Home"
+            }
+          }
+        ]
+      },
+      {
+        "id": "62ca19e64e25b570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a9b88172763a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔵 Confoederatio/Confoederatio26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confoederatio26"
             }
           }
         ]
@@ -205,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stadestér"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -235,9 +206,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6e41604e150d4fb",
+  "active": "0c1173dd68793ac2",
   "lastOpenFiles": [
+    "🔵 Confoederatio/Confoederatio26.md",
     "Home.md",
+    "Confoederatio.md",
+    "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 Proposed Methodology.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans/Stadestér 1.1 TODO.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.1a Substratum.md",
@@ -248,7 +223,6 @@
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.0.1 Rome.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 Proposed Methodology.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 OLD TODO.md",
     "().md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
@@ -258,15 +232,12 @@
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans",
     "Projects.md",
-    "Confoederatio.md",
     "FAQs.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/User Documentation/Entities/Geometries/GeometryPolygon.md",
     "🗒️ Gists/CTD/WIP.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "Templates/Update Website.md",
-    "Templates/Page Count.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
     "Templates",
     "publish.js",
     "Textdokument (neu).txt",

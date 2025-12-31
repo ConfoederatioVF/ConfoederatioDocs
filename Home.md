@@ -3,7 +3,7 @@ cover: https://i.postimg.cc/qvvmDC6H/embed-template.png
 description: Centralised documentation for all Confoederatio projects. If this is the homepage, please select the project you are looking for.
 ---
 
-<h2 align="right"><b><!-- COUNT_START -->126<!-- COUNT_END --></b> Pages</h2>
+<h2 align="right"><b><!-- COUNT_START -->127<!-- COUNT_END --></b> Pages</h2>
 
 <div align = "center">
 An ongoing project on the full documentation of all projects managed by Confoederatio and their histories.<br>
@@ -65,3 +65,5 @@ All datasets and documents, alongside accompanying research notes and code, are 
 **Preservés des Confoederatio**:
 - Digital Archives: [[Digital Archives]]
 - Physical Archives: [[Physical Archives]]
+<div align = "center"><h4>Yearly Plans:</h4></div>
+- 2026: [[Confoederatio26]]

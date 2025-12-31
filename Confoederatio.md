@@ -29,3 +29,7 @@ Confoederatio has only two full members at the moment: Vis Tacitus (VIs), and Au
 ## Publications and Software
 
 Publications are covered under **CRD**, whilst software is split between CRD for research tooling and **CTD** for technical frameworks and game/software engine development. All publications and software are open-source and freely available on GitHub underneath an MIT Licence.
+
+## Yearly Plans
+
+2026: [[Confoederatio26]]
