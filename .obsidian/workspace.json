@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts X Axis Symbol.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echarts X Axis Symbol"
+              "title": "Home"
             }
           },
           {
@@ -90,29 +90,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echarts Stroke Symbol"
-            }
-          },
-          {
-            "id": "dcf75362b467b366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Datasets/Complex Data Schema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complex Data Schema"
+              "title": "Echarts Ease Animations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".tooltip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +152,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Echarts Y Axis Symbol"
+              "title": "Backlinks for Echarts Ease Animations"
             }
           },
           {
@@ -248,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Echarts Y Axis Symbol"
+              "title": "Outline of Echarts Ease Animations"
             }
           }
         ]
@@ -277,19 +263,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32a9b88172763a3f",
+  "active": "92707c81062d231a",
   "lastOpenFiles": [
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/Universal Framework/UF.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
+    "Home.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts X Axis Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/Universal Framework/UF Documentation.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Complex Data Schema.md",
+    "🔵 Confoederatio/Confoederatio26.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Untitled.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Complex Data Schema.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér Organisation.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/1. Stadestér 1.1 Research Notes.md",
@@ -300,21 +292,15 @@
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.3b Alexandria Eschate.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.2a Rhapta.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.1a Substratum.md",
-    "Home.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
-    "🔵 Confoederatio/Confoederatio26.md",
     "_images/crd/stadester",
     "_images/crd/velkscala",
     "_images/crd/eoscala",
-    "Confoederatio.md",
-    "📰 Blogs/19 December 2025 - Confoederatio 2.0.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Stadestér 1.1 Proposed Methodology.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Plans",
-    "Templates",
     "_images/ctd/vercengen/vercengen_preview_01.png",
     "_images/ctd/vercengen/vercengen_ObjectInspector.png",
     "_images/ctd/vercengen/vercengen_datavis_suite_prototype.png",
