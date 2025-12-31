@@ -4,7 +4,7 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 > Graph types in Echarts are held in **Series Symbols** as part of their optioning, not as part of general graph types, which is the approach that Vercengen takes, since it would be more familiar to viewers.
 
 > [!WARNING]
-> Current binding documentation is a work-in-progress (WIP). Bindings are complete for both line and bar chart types.
+> Current binding documentation is a work-in-progress (WIP). Bindings are complete for chart types up to sunburst.
 ## Echarts Symbol Types
 
 - [[Echarts Fill Symbol|Fill Symbol]]
@@ -13,6 +13,34 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 - [[Echarts Stroke Symbol|Stroke Symbol]] - Used for the patterned line itself. All graph data originates as a patterned line, including for bar, pie, etc.
 - [[Echarts Text Symbol|Text Symbol]]
 - [[Echarts Tooltip Symbol|Tooltip Symbol]]
+
+**Chart Specific:** \[WIP] - Handle all chart types specified in [[Vercengen DatavisSuite]] planning
+
+| Chart Type    | Name                 | Page                             |
+| ------------- | -------------------- | -------------------------------- |
+| line          | Line                 | None                             |
+| bar           | Bar                  | [[Echarts Bar Chart]]            |
+| pie           | Pie                  | [[Echarts Pie Chart]]            |
+| scatter       | Scatterplot          | [[Echarts Scatterplot]]          |
+| effectScatter | Animated Scatterplot | [[Echarts Animated Scatterplot]] |
+| radar         | Radar                | [[Echarts Radar]]                |
+| tree          | Tree                 | [[Echarts Tree]]                 |
+| treemap       | Treemap              | [[Echarts Treemap]]              |
+| sunburst      | Sunburst             | [[Echarts Sunburst]]             |
+| boxplot       | Boxplot              | [[Echarts Boxplot]]              |
+| candlestick   | Candlestick          | [[Echarts Candlestick]]          |
+| heatmap       | Heatmap              | [[Echarts Heatmap]]              |
+| map           | Map                  | [[Echarts Map]]                  |
+| parallel      | Parallel             | [[Echarts Parallel]]             |
+| lines         | Lines                | [[Echarts Lines]]                |
+| graph         | Network Graph        | [[Echarts Network Graph]]        |
+| sankey        | Alluvial             | [[Echarts Alluvial]]             |
+| funnel        | Funnel               | [[Echarts Funnel]]               |
+| gauge         | Gauge                | [[Echarts Gauge]]                |
+| pictorialBar  | Pictorial Bar        | [[Echarts Pictorial Bar]]        |
+| themeRiver    | River                | [[Echarts River]]                |
+| chord         | Chord                | [[Echarts Chord]]                |
+| custom        | Custom               | [[Echarts Custom Chart]]         |
 ## Vercengen Symbol Guide
 
 **Axis Symbols:**
@@ -24,6 +52,7 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 - visual_map: Object - Echarts: `options.visualMap`
 	- Coords are bound to `options.visualMap.bottom/left/top/right`
 	- .anchor: string|undefined
+	- .center: Array<number|string, number|string>
 	- .x: number|undefined
 	- .y: number|undefined
 	  
@@ -70,28 +99,29 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
   
   **Behaviour (Advanced):**
 - .blend_mode="source-over": string - Echarts: `options.blendMode`. Either 'source-over'/'lighter'.
+- .cursor="pointer": string - Echarts: `options.cursor`
 - .hover_layer_threshold=3000: number - Echarts: `options.hoverLayerThreshold`. 
 - .rich_text_inherits_plain_label=false: boolean - Echarts: `options.richInheritPlainLabel`.
 - .use_UTC=false: boolean - Echarts: `options.useUTC`
   
-  **Chart Specific:** \[WIP] - Handle all chart types specified in [[Vercengen DatavisSuite]] planning
-- 'line'
-- 'bar'
-	- .bar_category_gap: number|string - Echarts: `options.series[n].barCategoryGap`
-	- .bar_gap="20%": string - Echarts: `options.series[n].barGap`
-	- .bar_max_width: number|string - Echarts: `options.series[n].barMaxWidth`
-	- .bar_min_angle: number - Echarts: `options.series[n].barMinAngle`
-	- .bar_min_height: number - Echarts: `options.series[n].barMinHeight`
-	- .bar_min_width: number|string - Echarts: `options.series[n].barMinWidth`
-	- .bar_width: number|string - Echarts: `options.series[n].barWidth`
-	- .round_cap=false: boolean - Echarts: `options.series[n].roundCap`. Whether to round the cap of the current series.
-	- .show_background=false: boolean - Echarts: `options.series[n].showBackground`. Whether to show a translucent background behind each bar. Enables `options.series[n].backgroundStyle`
-  
   **Coordinates:**
+- .anchor: string|undefined
+- .height="auto": number|string - Echarts: `options.height`
+- .width="auto": number|string - Echarts: `options.width`
+- .x: number|undefined - Echarts: `options.left/right`
+- .y: number|undefined - Echarts: `options.bottom/top`
+  
 - .coordinate_system="cartesian2d" - Echarts: `options.series[n].coordinateSystem` - Either 'cartesian2d'/'polar'.
 - .polar_index: number - Echarts: `options.series[n].polarIndex` - The polar axis to base the chart upon.
 - .x_axis_index: number - Echarts: `options.series[n].xAxisIndex`. The X axis to base the chart upon.
 - .y_axis_index: number - Echarts: `options.series[n].yAxisIndex`. The Y axis to base the chart upon.
+  
+- .calendar_id=undefined: string|undefined - Echarts: `options.series[n].calendarId`
+- .calendar_index: number - Echarts: `options.series[n].calendarIndex`
+- .geo_id=undefined: string|undefined - Echarts: `options.series[n].geoId`
+- .geo_index: number - Echarts: `options.series[n].geoIndex`
+- .matrix_id=undefined: string|undefined - Echarts: `options.series[n].matrixId`
+- .matrix_index: number - Echarts: `options.series[n].matrixIndex`
   
   **Events:**
 - .onblur - Object - Echarts: `options.series[n].blur`. Available when `.symbol.onhover.focus` is set.
