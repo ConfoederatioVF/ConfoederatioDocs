@@ -19,3 +19,8 @@ img {
 		cursor: pointer;
 	}
 }
+
+/* -- Page Content -- */
+.internal-embed.markdown-embed.is-loaded {
+	padding-left: 0.5rem;
+}

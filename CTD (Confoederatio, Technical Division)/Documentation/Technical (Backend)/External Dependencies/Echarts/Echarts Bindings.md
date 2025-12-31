@@ -44,6 +44,14 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 ## Vercengen Symbol Guide
 
 **Axis Symbols:**
+- .angle_axis: Object - Echarts: `options.angleAxis`
+	- ...[[Echarts Angle Axis Symbol]]
+- .polar_axis: Object - Echarts: `options.polar`
+	- ...[[Echarts Polar Axis Symbol]]
+- .radar_axis: Object - Echarts: `options.radarAxis`
+	- ...[[Echarts Radar Axis Symbol]]
+- .radius_axis: Object - Echarts: `options.radiusAxis`
+	- ...[[Echarts Radius Axis Symbol]]
 - .x_axis: Object - Echarts: `options.xAxis`
 	- ...[[Echarts X Axis Symbol]]
 - y_axis: Object - Echarts: `options.yAxis`

@@ -1,11 +1,12 @@
 #wip
 
-| Stadestér 1.1 (Cusco) | <                        |
-| --------------------- | ------------------------ |
-| Release Date          | Proposed Version         |
-| Patch Notes           | None                     |
-| Database              | [[Stadestér]]            |
-| Previous Version      | [[Stadestér 1.0.1 Rome]] |
+| Stadestér 1.1 (Cusco) | <                                   |
+| --------------------- | ----------------------------------- |
+| Release Date          | Proposed Version                    |
+| Patch Notes           | None                                |
+| Database              | [[Stadestér]]                       |
+| Previous Version      | [[Stadestér 1.0.1 Rome]]            |
+| Research Notes        | [[1. Stadestér 1.1 Research Notes]] |
 ## Abstract
 
 **Stadestér 1.1** should be a complete overhaul of [[Stadestér 1.0 Edo]] as it currently stands since there turned out to be major errors with [Reba et al.](https://www.nature.com/articles/sdata201634), whose work should generally be treated with extreme caution due to issues with transcription. As a result, future plans should generally exclude Chandler/Modelski digitalisations that come from there.
