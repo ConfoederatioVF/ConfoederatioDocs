@@ -9,6 +9,8 @@ See also: [[Confoederatio]]
 Also referred to as [[19 December 2025 - Confoederatio 2.0|Confoederatio 2.0]], **Confoederatio26** is the main yearly plan for Confoederatio progress in the sense of achieving polished versions of existing infrastructure and solidifying both core tools and databases for future work and progress.
 ## Timetable
 
+Dates are specified as being when projects end, i.e. deadlines, not when they start.
+
 - 31 January 2026: [[Vercengen]] 1.0 Release - Software Engine
     - ve.DatavisSuite WIP
     - ve.FlexInterface DONE
@@ -32,6 +34,7 @@ Also referred to as [[19 December 2025 - Confoederatio 2.0|Confoederatio 2.0]], 
     - Confoederatio Docs completeness
     - Naissance HGIS data portal/livemap capability
 	    - Porting Stadestér/Velkscala to Naissance HGIS
+	- Finish updating READMEs for GitHub and synchonisation with Confoederatio Docs
 - 31 December 2026: Finish database polish work
     - Stadestér 1.2 (currently 1.0)
     - Eoscala 1.5 (currently 1.2) - Historical Economic Database

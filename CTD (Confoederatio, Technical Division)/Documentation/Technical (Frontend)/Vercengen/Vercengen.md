@@ -12,7 +12,7 @@ cover: https://i.postimg.cc/J7SgyNxT/embed-template-vercengen.png
 > Read our documentation [website](https://confoederatio.org/Vercengen)! 
 ### Abstract.
 
-See also: [[Vercengen Plans]] | [[Vercengen Releases]]
+See also: [[Vercengen Plans]] | [[Vercengen Releases]] | [[Echarts Bindings]]
 
 Vercengen is an immediate mode frontend software engine developed for Confoederatio wth a focus on rapid application development (RAD), in which UI/UX is simply part of your state. It is used as the main frontend for most Confoederatio applications and provides simple adjustable CSS themes by tinkering with variables.
 
@@ -53,8 +53,8 @@ Default **Features** include:
 
 Default **Components** include:
 - BIUF (Rich Text), Button, Checkbox, Colour, Datalist, Date, DateLength, File, FileExplorer, HTML, Hierarchy, HierarchyDatatype, Interface, List, Map, MultiTag, NodeEditor, NodeEditorDatatype, Number, ObjectInspector, PageMenu, Password, Radio, Range, RawInterface, ScriptManager, ScriptManagerBlockly, ScriptManagerCodemirror, Select, Table, Telephone, Text, Time, Toggle, URL, UndoRedo, WYSIWYG
-<img src = "https://confoederatio.org/Vercengen/autodoc/images/undo_redo_preview.png">
-<div align = "center"><b>Note.</b> Undo/Redo supports both a Timeline view as well as a graphical Tree view.</div>
+<br><img src = "https://confoederatio.org/Vercengen/autodoc/images/undo_redo_preview.png">
+<br><div align = "center"><b>Note.</b> Undo/Redo supports both a Timeline view as well as a graphical Tree view.</div>
 
 ### Example:
 
