@@ -18,6 +18,7 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
     - ve.GraphLegend WIP
     - ve.GraphText WIP
     - ve.NodeEditor DONE
+	    - ve.NodeEditor polish: abort button, time elapsed per node, run/preview DAG from node
     - ve.NodeEditorDatatype DONE
     - ve.ObjectInspector DONE
     - ve.Table
