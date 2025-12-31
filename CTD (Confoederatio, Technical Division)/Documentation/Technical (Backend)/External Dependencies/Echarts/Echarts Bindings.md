@@ -44,6 +44,11 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 ## Vercengen Symbol Guide
 
 **Axis Symbols:**
+- .x_axis: Object - Echarts: `options.xAxis`
+	- ...[[Echarts X Axis Symbol]]
+- y_axis: Object - Echarts: `options.yAxis`
+	- ...[[Echarts Y Axis Symbol]]
+
 **Graph Symbols:**
 - .background_colour: string - Echarts: `options.backgroundColor`
 - .default_colours: string[] - Echarts: `options.color` - Determines the default colours each data series takes on.
