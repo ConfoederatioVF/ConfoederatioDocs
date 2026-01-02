@@ -12,6 +12,7 @@ Also referred to as [[19 December 2025 - Confoederatio 2.0|Confoederatio 2.0]], 
 Dates are specified as being when projects end, i.e. deadlines, not when they start.
 
 - 31 January 2026: [[Vercengen]] 1.0 Release - Software Engine
+    - ve.Colour should take in RGBA inputs
     - ve.DatavisSuite WIP
     - ve.FlexInterface DONE
     - ve.Graph WIP
@@ -22,10 +23,10 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
     - ve.NodeEditorDatatype DONE
     - ve.ObjectInspector DONE
     - ve.Table
-    - Renaming Vercengen components
-	    - ve.BIUF > ve.RichText
-	    - ve.Table > ve.Spreadsheet
-	    - ve.WYSIWYG > ve.WordProcessor
+    - Renaming Vercengen components WIP
+	    - ve.BIUF > ve.RichText DONE
+	    - ve.Table > ve.Spreadsheet DONE
+	    - ve.WYSIWYG > ve.WordProcessor DONE
 		    - Polish work for ve.WordProcessor
 - 31 March 2026:  [[Stadestér 1.1 Cusco]] Release - Historical Urban Database
 - 31 April 2026: [[Velkscala 1.0]] Release - Historical Demographic Database

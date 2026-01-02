@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Echarts Ease Animations"
             }
           },
           {
@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "Echarts Label Symbol"
             }
+          },
+          {
+            "id": "63a986337479188a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰 Blogs/1 January 2026 - Splendid Isolation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 January 2026 - Splendid Isolation"
+            }
+          },
+          {
+            "id": "210ba046ae23b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔵 Confoederatio/Confoederatio26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confoederatio26"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "62ca19e64e25b570",
@@ -85,20 +113,6 @@
             }
           },
           {
-            "id": "92707c81062d231a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Ease Animations"
-            }
-          },
-          {
             "id": "e8b636c60f3edf9b",
             "type": "leaf",
             "state": {
@@ -110,6 +124,90 @@
               },
               "icon": "lucide-file",
               "title": "Echarts Fill Symbol"
+            }
+          },
+          {
+            "id": "6fc8e47b61a9e8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echarts Label Symbol"
+            }
+          },
+          {
+            "id": "e5ab183fd576136c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰 Blogs/6 December 2025 - The Long Road Ahead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 December 2025 - The Long Road Ahead"
+            }
+          },
+          {
+            "id": "688c51bd55601b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Point Symbol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echarts Point Symbol"
+            }
+          },
+          {
+            "id": "be8a5ae754b4f21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echarts Stroke Symbol"
+            }
+          },
+          {
+            "id": "3a13314c18e4e5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echarts Text Symbol"
+            }
+          },
+          {
+            "id": "ac2bc3495bfd62ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echarts Tooltip Symbol"
             }
           }
         ],
@@ -145,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "confoederatio26",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +264,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
+                "file": "🔵 Confoederatio/Confoederatio26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Echarts Fill Symbol"
+              "title": "Backlinks for Confoederatio26"
             }
           },
           {
@@ -248,13 +347,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
+                "file": "🔵 Confoederatio/Confoederatio26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Echarts Fill Symbol"
+              "title": "Outline of Confoederatio26"
             }
           }
         ]
@@ -277,37 +376,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8b636c60f3edf9b",
+  "active": "210ba046ae23b6f3",
   "lastOpenFiles": [
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
     "Home.md",
+    "📰 Blogs/1 January 2026 - Splendid Isolation.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
+    "📰 Blogs/6 December 2025 - The Long Road Ahead.md",
+    "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Point Symbol.md",
+    "📰 Blogs/26 December 2025 - What Is A Graph, Anyway.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/Universal Framework/UF.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts X Axis Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Stroke Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/Universal Framework/UF Documentation.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Complex Data Schema.md",
     "🔵 Confoederatio/Confoederatio26.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Untitled.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér Organisation.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/1. Stadestér 1.1 Research Notes.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Untitled",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.0.1 Rome.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.0 Edo.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.4b Caracol.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.3b Alexandria Eschate.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.2a Rhapta.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 0.1a Substratum.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen.md",
     "_images/crd/stadester",
     "_images/crd/velkscala",
     "_images/crd/eoscala",
@@ -324,7 +423,6 @@
     "_images/crd/naissance/GeometryPoint_1.5b.png",
     "_images/crd/constele_red/constele_red_logo.png",
     "_images/crd/naissance/GeometryLine_1.5b.png",
-    "_images/crd/naissance/GeometryPolygon_1.5b.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

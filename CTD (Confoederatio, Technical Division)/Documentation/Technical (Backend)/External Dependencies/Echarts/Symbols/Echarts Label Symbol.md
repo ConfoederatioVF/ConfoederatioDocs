@@ -1,7 +1,7 @@
 Referred to internally as `label` by Echarts, without a `Symbol` suffix.
 
 - .show: boolean - Echarts: `show`
-- .color="#fff": string - Echarts: `.color`
+- .colour="#fff": string - Echarts: `.color`
 - .formatter - Echarts: `.formatter` - {a} = Series name, {b} = name of a data item, {c} = value of a data item, {@xxx} - The value of a diemsnion named 'xxx', {@\[n\]} - The value of a dimension at the index of n. 
 - .fontFamily="sans-serif": string - Echarts: `.fontFamily`
 - .fontSize=12: number - Echarts: `.fontSize`
