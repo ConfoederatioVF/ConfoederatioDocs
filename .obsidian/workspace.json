@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Point Symbol.md",
+                "file": "🔵 Confoederatio/Confoederatio26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Echarts Point Symbol"
+              "title": "Backlinks for Confoederatio26"
             }
           },
           {
@@ -304,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Point Symbol.md",
+                "file": "🔵 Confoederatio/Confoederatio26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Echarts Point Symbol"
+              "title": "Outline of Confoederatio26"
             }
           }
         ]
@@ -333,7 +333,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a661baa5a23bb666",
+  "active": "210ba046ae23b6f3",
   "lastOpenFiles": [
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",

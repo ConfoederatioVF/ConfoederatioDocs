@@ -22,6 +22,7 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
 	    - ve.NodeEditor polish: abort button, time elapsed per node, run/preview DAG from node
     - ve.NodeEditorDatatype DONE
     - ve.ObjectInspector DONE
+    - ve.ScriptManagerBlockly should be moved to a dedicated iframe
     - ve.Table
     - Renaming Vercengen components WIP
 	    - ve.BIUF > ve.RichText DONE
