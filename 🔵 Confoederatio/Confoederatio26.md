@@ -12,7 +12,7 @@ Also referred to as [[19 December 2025 - Confoederatio 2.0|Confoederatio 2.0]], 
 Dates are specified as being when projects end, i.e. deadlines, not when they start.
 
 - 31 January 2026: [[Vercengen]] 1.0 Release - Software Engine
-    - ve.Colour should take in RGBA inputs
+    - ve.Colour should take in RGBA inputs if specified
     - ve.DatavisSuite WIP
     - ve.FlexInterface DONE
     - ve.Graph WIP
@@ -22,8 +22,18 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
 	    - ve.NodeEditor polish: abort button, time elapsed per node, run/preview DAG from node
     - ve.NodeEditorDatatype DONE
     - ve.ObjectInspector DONE
+    - ve.ScriptManager
+	    - .autosave_folder should be changed to .project_folder, with the ability to move the project folder
+	    - Ergonomics for Blockly/Codemirror should be automatically managed based on ES6-compatibility
+	    - Manual synchronisation toggle that disables synchronisation between Codemirror <-> Blockly and makes it manual instead
+	    - Migrate themes and settings to be Monaco compatible
+	    - Multiple language recognition
     - ve.ScriptManagerBlockly should be moved to a dedicated iframe
+    - ve.ScriptManagerCodemirror should be swapped for ve.ScriptManagerMonaco
     - ve.Table
+	    - Option to change the number of results per page (number[] option, predefined)
+	    - Page number input
+	    - ve.Table should have an optional searchbar
     - Renaming Vercengen components WIP
 	    - ve.BIUF > ve.RichText DONE
 	    - ve.Table > ve.Spreadsheet DONE
