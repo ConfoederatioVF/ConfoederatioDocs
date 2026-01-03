@@ -34,6 +34,7 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
 	    - Option to change the number of results per page (number[] option, predefined)
 	    - Page number input
 	    - ve.Table should have an optional searchbar
+	- ve.Window should define scene height (this will help exclude navbar_el by default)
     - Renaming Vercengen components WIP
 	    - ve.BIUF > ve.RichText DONE
 	    - ve.Table > ve.Spreadsheet DONE
