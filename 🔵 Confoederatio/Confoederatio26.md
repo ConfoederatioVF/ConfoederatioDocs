@@ -22,11 +22,11 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
 	    - ve.NodeEditor polish: abort button, time elapsed per node, run/preview DAG from node
     - ve.NodeEditorDatatype DONE
     - ve.ObjectInspector DONE
-    - ve.ScriptManager
+    - ve.ScriptManager WIP
 	    - .autosave_folder should be changed to .project_folder, with the ability to move the project folder
 	    - Ergonomics for Blockly/Codemirror should be automatically managed based on ES6-compatibility
 	    - Manual synchronisation toggle that disables synchronisation between Codemirror <-> Blockly and makes it manual instead
-	    - Migrate themes and settings to be Monaco compatible
+	    - Migrate themes and settings to be Monaco compatible DONE
 	    - Multiple language recognition
     - ve.ScriptManagerBlockly should be moved to a dedicated iframe
     - ve.ScriptManagerCodemirror should be swapped for ve.ScriptManagerMonaco
