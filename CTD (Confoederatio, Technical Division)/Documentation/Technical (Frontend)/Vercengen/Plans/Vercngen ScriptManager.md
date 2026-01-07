@@ -2,6 +2,7 @@
 - Better console using ve.ObjectInspector where possible (for very large objects, a confirmation prompt will be given)
 - Global find and replace/context-aware search
 - Manual synchronisation between blocks and code as default
+	- Red/green border highlighting for saved/unsaved states
 - Multifile search select bar at the bottom to which you can pin files, with per file symbol styling (i.e. colour/text coding)
     - Save indicator for multifile search select as bottom underline plus asterisk
 - Progress indicator under multifile search select for progress on indexing new project folders

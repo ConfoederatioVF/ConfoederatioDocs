@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Vercngen ScriptManager"
             }
           },
           {
@@ -317,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Vercngen ScriptManager"
             }
           }
         ]
@@ -346,8 +346,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cafb33fb70c3314",
+  "active": "0c1173dd68793ac2",
   "lastOpenFiles": [
+    "Home.md",
     "🔵 Confoederatio/Confoederatio26.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér Organisation.md",
@@ -359,7 +360,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
     "📰 Blogs/6 December 2025 - The Long Road Ahead.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
-    "Home.md",
     "📰 Blogs/1 January 2026 - Splendid Isolation.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
