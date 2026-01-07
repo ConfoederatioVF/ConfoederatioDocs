@@ -1,4 +1,4 @@
-- Adjustable height for scene in view settings
+- Adjustable height for scene in view settings DONE
 - Better console using ve.ObjectInspector where possible (for very large objects, a confirmation prompt will be given)
 - Global find and replace/context-aware search
 - Manual synchronisation between blocks and code as default
