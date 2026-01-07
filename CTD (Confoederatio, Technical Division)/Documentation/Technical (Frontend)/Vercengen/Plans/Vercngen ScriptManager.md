@@ -1,10 +1,11 @@
-**DevTools.**
-- ObjectInspector for logged objects
-**Ergonomics.**
-- Blockly should automatically minimise (display none) if not ES6-compatible
-- Blockly should be moved to an iframe
-- Do not synchronise blocks <-> code on file load
-- Load documentation for project folder
-- Multiple language recognition
-- On save should always save from code view
-- Toggle manual synchronisation between blocks <-> code
+- Adjustable height for scene in view settings
+- Better console using ve.ObjectInspector where possible (for very large objects, a confirmation prompt will be given)
+- Global find and replace/context-aware search
+- Manual synchronisation between blocks and code as default
+- Multifile search select bar at the bottom to which you can pin files, with per file symbol styling (i.e. colour/text coding)
+    - Save indicator for multifile search select as bottom underline plus asterisk
+- Progress indicator under multifile search select for progress on indexing new project folders
+- Progress indicator for indexing for global find and replace
+
+- Multi-language syntax support
+- Project folder documentation/JSDoc compatibility via indexing
