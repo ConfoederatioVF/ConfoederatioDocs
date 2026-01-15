@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercngen ScriptManager"
+              "title": "Vercengen Plans"
             }
           },
           {
@@ -83,15 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercngen ScriptManager"
+              "title": "Vercengen ScriptManager"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "62ca19e64e25b570",
@@ -173,12 +174,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "🔵 Confoederatio/Confoederatio26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Confoederatio26"
             }
           }
         ],
@@ -214,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confoederatio26",
+                "query": "audioeditor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,7 +236,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +267,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vercngen ScriptManager"
+              "title": "Backlinks for Vercengen ScriptManager"
             }
           },
           {
@@ -317,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vercngen ScriptManager"
+              "title": "Outline of Vercengen ScriptManager"
             }
           }
         ]
@@ -346,11 +348,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c1173dd68793ac2",
+  "active": "210ba046ae23b6f3",
   "lastOpenFiles": [
-    "Home.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercngen ScriptManager.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
     "🔵 Confoederatio/Confoederatio26.md",
+    "Home.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér Organisation.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
     "Untitled.md",
@@ -364,8 +369,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
     "📰 Blogs/26 December 2025 - What Is A Graph, Anyway.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/Universal Framework/UF.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts X Axis Symbol.md",
@@ -377,7 +380,6 @@
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/1. Stadestér 1.1 Research Notes.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Untitled",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.0.1 Rome.md",
     "_images/crd/stadester",
     "_images/crd/velkscala",
     "_images/crd/eoscala",
