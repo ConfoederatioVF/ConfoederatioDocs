@@ -64,35 +64,21 @@
             }
           },
           {
-            "id": "63a986337479188a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📰 Blogs/1 January 2026 - Splendid Isolation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 January 2026 - Splendid Isolation"
-            }
-          },
-          {
             "id": "210ba046ae23b6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercengen ScriptManager"
+              "title": "2026.01.16"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "62ca19e64e25b570",
@@ -215,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "audioeditor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,8 +222,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vercengen ScriptManager"
+              "title": "Backlinks for 2026.01.16"
             }
           },
           {
@@ -319,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
+                "file": "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vercengen ScriptManager"
+              "title": "Outline of 2026.01.16"
             }
           }
         ]
@@ -350,11 +335,14 @@
   },
   "active": "210ba046ae23b6f3",
   "lastOpenFiles": [
+    "📰 Blogs/1 January 2026 - Splendid Isolation.md",
+    "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
+    "CTD (Confoederatio, Technical Division)/Plans/2025.12.31.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
+    "🔵 Confoederatio/Confoederatio26.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts/Echarts Ease Animations.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ScriptManager.md",
-    "🔵 Confoederatio/Confoederatio26.md",
     "Home.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Stadestér Organisation.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
@@ -365,7 +353,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
     "📰 Blogs/6 December 2025 - The Long Road Ahead.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Label Symbol.md",
-    "📰 Blogs/1 January 2026 - Splendid Isolation.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Fill Symbol.md",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
     "📰 Blogs/26 December 2025 - What Is A Graph, Anyway.md",
@@ -377,8 +364,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Untitled.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/1. Stadestér 1.1 Research Notes.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1/Untitled",
     "_images/crd/stadester",
     "_images/crd/velkscala",

@@ -6,7 +6,7 @@ This is a gazetteer of current CTD plans by date, as filtered into categories by
 
 | Plan Name                      | Type      | Status |
 | ------------------------------ | --------- | ------ |
-| [[WIP 2025.12.31]]             | Daily     | WIP    |
+| [[2025.12.31]]             | Daily     | WIP    |
 | [[Vercengen 0.95b Ghassulian]] | Vercengen | WIP    |
 | [[Balance of Power]]           | MC        | WIP    |
 
