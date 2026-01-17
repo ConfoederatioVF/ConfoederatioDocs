@@ -12,7 +12,7 @@ Also referred to as [[19 December 2025 - Confoederatio 2.0|Confoederatio 2.0]], 
 Dates are specified as being when projects end, i.e. deadlines, not when they start.
 
 - 31 January 2026: [[Vercengen]] 1.0 Release - Software Engine
-    - ve.Colour should take in RGBA inputs if specified
+    - ve.Colour should take in RGBA inputs if specified DONE
     - ve.DatavisSuite WIP
     - ve.FlexInterface DONE
     - ve.Graph WIP
@@ -32,10 +32,12 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
 	    - Multiple language recognition/project folder documentation DPME
     - ve.ScriptManagerBlockly should be moved to a dedicated iframe DONE
     - ve.ScriptManagerCodemirror should be swapped for ve.ScriptManagerMonaco DONE
+    - ve.Range now takes in number inputs DONE
     - ve.Table
 	    - Option to change the number of results per page (number[] option, predefined)
 	    - Page number input
 	    - ve.Table should have an optional searchbar
+	- ve.UndoRedo should support manual commits
 	- ve.Window should define scene height (this will help exclude navbar_el by default)
     - Renaming Vercengen components WIP
 	    - ve.BIUF > ve.RichText DONE
