@@ -48,11 +48,11 @@ The framework is batteries included and supports a range of Features (which enca
 Current **Locales** include:
 - EN-GB (British English: Default), FR (French), DE (German)
 
-Default **Features** include:
-- Confirm, ContextMenu, Modal, Navbar, PageMenuWindow, Scene, Toast, Tooltip, Window
-
-Default **Components** include:
-- BIUF (Rich Text), Button, Checkbox, Colour, Datalist, Date, DateLength, File, FileExplorer, HTML, Hierarchy, HierarchyDatatype, Interface, List, Map, MultiTag, NodeEditor, NodeEditorDatatype, Number, ObjectInspector, PageMenu, Password, Radio, Range, RawInterface, ScriptManager, ScriptManagerBlockly, ScriptManagerCodemirror, Select, Table, Telephone, Text, Time, Toggle, URL, UndoRedo, WYSIWYG
+Default **Features** (9):  
+- Confirm, ContextMenu, Modal, Navbar, PageMenuWindow, Scene, Toast, Tooltip, Window  
+  
+Default **Components** (45):  
+- Button, Checkbox, Colour, Datalist, DatavisSuite, Date, DateLength, File, FileExplorer, FlexInterface, Graph, GraphLegend, GraphText, HTML, Hierarchy, HierarchyDatatype, Interface, List, Map, MultiTag, NodeEditor, NodeEditorDatatype, Number, ObjectEditor, ObjectInspector, PageMenu, Password, Radio, Range, RawInterface, RichText, ScriptManager, ScriptManagerBlockly, ScriptManagerMonaco, SearchSelect, Select, Spreadsheet, Table, Telephone, Text, Time, Toggle, URL, UndoRedo, WordProcessor
 <br><img src = "https://confoederatio.org/Vercengen/autodoc/images/undo_redo_preview.png">
 <br><div align = "center"><b>Note.</b> Undo/Redo supports both a Timeline view as well as a graphical Tree view.</div>
 
@@ -98,7 +98,7 @@ WYSIWYG Word Editor (4 lines):
 ```js
 word_editor = veWindow({
   file_explorer: veFileExplorer(__dirname, { y: 0 }),
-  text_editor: veWYSIWYG("Hello world.", { y: 0 })
+  text_editor: veWordProcessor("Hello world.", { y: 0 })
 }, { name: "Word Editor", width: "40rem" });
 ```
 
