@@ -18,7 +18,7 @@ The following concerns should ideally be addressed after a **1.0** release of Ve
 
 - Localisation catchup by supporting UN+1 languages (official languages of the UN and German).
 - Missing components: 
-	- ve.3DEditor, ve.AgentBrowser, ve.AudioEditor, ve.AudioPlayer, ve.Chatroom, ve.Datavault (Node.js only), ve.GIS (Node.js only), ve.ImageEditor, ve.MediaGallery, ve.RemoteControl, ve.VideoEditor, ve.VideoPlayer, ve.VirtualMachine, ve.WebsiteBuilder, ve.Wiki
+	- ve.3DEditor, ve.AgentBrowser, ve.AudioEditor, ve.AudioPlayer, ve.Chatroom, ve.Datavault (Node.js only), ve.GIS (Node.js only), ve.ImageEditor, ve.JSONEditor, ve.MediaGallery, ve.RemoteControl, ve.VideoEditor, ve.VideoPlayer, ve.VirtualMachine, ve.WebsiteBuilder, ve.Wiki
 - Simplify Hierarchy by adding streamlined optioning for drag and synchronisation behaviour, as well as the ability to create new list items/groups.
 - Single-file CDN:
 	- Address non-component incompatibility issues and global namespace (window.global)

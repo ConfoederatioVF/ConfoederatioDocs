@@ -72,7 +72,6 @@ Known by Echarts as `xAxis`.
 	- .length=5: number - Echarts: `options.xAxis.axisTick.number`
 	- .stroke_symbol: Object - Echarts: `options.xAxis.axisTick.lineStyle`
 		- ...[[Echarts Stroke Symbol]]
-- .move_overlap="auto": string|boolean - Echarts: `options.xAxis.breakLabelLayout.moveOverlap` - Either 'auto'/true/false.
 - .minor_split_line: Object - Echarts: `options.xAxis.minorSplitLine`
 	- .show=false: boolean - Echarts: `options.xAxis.minorSplitLine.show`
 	- .stroke_symbol: Object - Echarts: `options.xAxis.minorSplitLine.lineStyle`
@@ -84,6 +83,7 @@ Known by Echarts as `xAxis`.
 	- .split_number=5: number - Echarts: `options.xAxis.minorTick.splitNumber`
 	- .stroke_symbol: Object - Echarts: `options.xAxis.minorTick.lineStyle`
 		- ....[[Echarts Stroke Symbol]]
+- .move_overlap="auto": string|boolean - Echarts: `options.xAxis.breakLabelLayout.moveOverlap` - Either 'auto'/true/false.
 - .split_area: Object - Echarts: `options.xAxis.splitArea`
 	- .show=false: boolean - Echarts: `options.xAxis.splitArea.show`
 	  

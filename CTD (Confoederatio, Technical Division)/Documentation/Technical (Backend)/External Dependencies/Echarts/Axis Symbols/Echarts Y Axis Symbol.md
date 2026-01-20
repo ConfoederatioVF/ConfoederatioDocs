@@ -28,7 +28,7 @@ Known by Echarts as `yAxis`.
 	- .hide_overlap=false - Echarts: `options.yAxis.axisLabel.hideOverlap`
 	- .inside=false: boolean - Echarts: `options.yAxis.axisLabel.inside`
 	- .interval="auto": string|number|function - Echarts: `options.yAxis.axisLabel.interval` - If a function, must return a number.
-	- .margin=0: number - Echarts: `options.yAxis.axisLabel.margin`
+	- .margin=8: number - Echarts: `options.yAxis.axisLabel.margin`
 	- .rotate=0: number - Echarts: `options.yAxis.axisLabel.rotate`
 	- .show_max_label=false: boolean - Echarts: `options.yAxis.axisLabel.showMaxLabel`
 	- .show_min_label=false: boolean - Echarts: `options.yAxis.axisLabel.showMinLabel`

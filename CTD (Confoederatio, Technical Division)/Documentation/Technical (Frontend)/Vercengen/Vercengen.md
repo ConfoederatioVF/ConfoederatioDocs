@@ -9,7 +9,7 @@ cover: https://i.postimg.cc/J7SgyNxT/embed-template-vercengen.png
 </div>
 
 > [!NOTE]
-> Read our documentation [website](https://confoederatio.org/Vercengen)! 
+> Read our documentation [website](https://confoederatio.org/Vercengen)!. If you are looking for single-file documentation, please read [[Vercengen Components Documentation]] and [[Vercengen Features Documentation]].
 ### Abstract.
 
 See also: [[Vercengen Plans]] | [[Vercengen Releases]] | [[Echarts Bindings]]
