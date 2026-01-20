@@ -8,6 +8,8 @@ The following is a list of plans that represent the continuous roadmap for [[Ver
 
 | Plan                           | Type      | Status | Date             |
 | ------------------------------ | --------- | ------ | ---------------- |
+| [[Vercengen ObjectEditor]]     | Component | WIP    | 20 January 2026  |
+| [[Vercengen ScriptManager]]    | Component | DONE   | 15 January 2026  |
 | [[Vercengen 0.95b Ghassulian]] | General   | WIP    | 24 December 2025 |
 | [[Vercengen Polish 1]]         | General   | WIP    | 22 December 2025 |
 | [[Vercengen DatavisSuite]]     | Component | WIP    | 21 December 2025 |
