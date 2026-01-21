@@ -4,11 +4,12 @@ description: Roadmap and planning outlines for Vercengen, particularly for Compo
 ---
 #vercengen #plans #TODO
 
-The following is a list of plans that represent the continuous roadmap for [[Vercengen]].
+The following is a list of plans that represent the continuous roadmap for [[Vercengen]]. Note that the date column only includes those dates which are directly relevant to Vercengen.
 
 | Plan                           | Type      | Status | Date             |
 | ------------------------------ | --------- | ------ | ---------------- |
-| [[Vercengen ObjectEditor]]     | Component | WIP    | 20 January 2026  |
+| [[Confoederatio26]]            | General   | WIP    | 21 January 2026  |
+| [[Vercengen ObjectEditor]]     | Component | DONE   | 20 January 2026  |
 | [[Vercengen ScriptManager]]    | Component | DONE   | 15 January 2026  |
 | [[Vercengen 0.95b Ghassulian]] | General   | WIP    | 24 December 2025 |
 | [[Vercengen Polish 1]]         | General   | WIP    | 22 December 2025 |

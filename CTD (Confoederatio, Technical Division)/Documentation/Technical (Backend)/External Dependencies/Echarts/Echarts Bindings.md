@@ -60,7 +60,9 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 **Graph Symbols:**
 - .background_colour: string - Echarts: `options.backgroundColor`
 - .default_colours: string[] - Echarts: `options.color` - Determines the default colours each data series takes on.
-- .text_symbol: [[Echarts Text Symbol]]
+- .title: [[Echarts Title Symbol]] - Echarts: `options.title`
+- .tooltip: [[Echarts Tooltip Symbol]] - Echarts: `options.tooltip`
+- .text_symbol: [[Echarts Text Symbol]] - Echarts: `options.textStyle`
   
 - visual_map: Object - Echarts: `options.visualMap`
 	- Coords are bound to `options.visualMap.bottom/left/top/right`

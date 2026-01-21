@@ -6,12 +6,12 @@ Typically known within Echarts as `.tooltip`.
 - .always_show_content=false: boolean - Echarts: `.alwaysShowContent`
 - .class_name: string - Echarts `.className`
 - .confine=false: boolean - Echarts `.confine`
-- .display_transition=true: number - Echarts: `.displayTransition`
+- .display_transition=true: boolean - Echarts: `.displayTransition`
 - .enterable=true: number - Echarts: `.enterable
-- .show_content=true: boolean - Echarts: `.showContent`
-- .show_delay: number - Echarts: `.showDelay`
 - .hide_delay=100: number - Echarts: `.hideDelay`
 - .position: string[] - Echarts: `.position`
+- .show_content=true: boolean - Echarts: `.showContent`
+- .show_delay: number - Echarts: `.showDelay`
 - .transitionDuration=0.4: number - Echarts: `.transitionDuration`
 - .trigger_on="mousemove": string - Echarts: `.triggerOn` - Either 'mousemove'/'click'/'mousemove|click'/'none'.
 - .render_mode="html": string - Echarts: `.renderMode` - Either 'html'/'richText'.
