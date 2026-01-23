@@ -2,7 +2,7 @@ The following example creates a NodeEditor window with a given autosave folder. 
 
 ```js
 global.node_window = veWindow(new ve.NodeEditor(undefined, {  
-  autosave_folder: "./scripts/",  
+  project_folder: "./scripts/",  
   category_types: {  
    "Expressions": {  
     colour: "#9ecd9e",  

@@ -5,7 +5,7 @@ Typically known within Echarts as `.title`.
   
 - .name="": string - Echarts: `.text`
 - .link="": string - Echarts: `.link`
-- .target="blank": string - Echarts: `.target`
+- .target="blank": string - Echarts: `.target` - Either 'blank'/'self'.
 - .title_symbol: [[Echarts Text Symbol]] - Echarts: `.textStyle`
   
 - .subtitle="": string - Echarts: `.subtext`
@@ -20,7 +20,7 @@ Typically known within Echarts as `.title`.
 
 - .coord=\[0, 0]: Array<string, string>|Array<number, number> - Echarts: `.coord`
 - .coordinate_system="none": string - Echarts: `.coordinateSystem` - Either 'none'/'calendar'/'matrix'.
-- .coordinate-system_usage="box": string - Echarts: `.coordinateSystemUsage` - Either 'data'/'box'.
+- .coordinate_system_usage="box": string - Echarts: `.coordinateSystemUsage` - Either 'data'/'box'.
   
 - .calendar_id: number - Echarts: `.calendarId`
 - .calendar_index: number - Echarts: `.calendarIndex
@@ -35,7 +35,7 @@ Typically known within Echarts as `.title`.
 - .z_level=0: number - Echarts: `.zlevel`
 
 - .background_colour=\[0, 0, 0, 0]: string - Echarts: `.backgroundColor`
-- .border_colour="#ccc": string - Echarts: `.borderColor``
+- .border_colour="#ccc": string - Echarts: `.borderColor`
 - .border_radius: Array<number, number, number, number> - Echarts: `.borderRadius
 - .border_width=1: number - Echarts: `.borderWidth`
 - .shadow_blur: number - Echarts: `.shadowBlur`

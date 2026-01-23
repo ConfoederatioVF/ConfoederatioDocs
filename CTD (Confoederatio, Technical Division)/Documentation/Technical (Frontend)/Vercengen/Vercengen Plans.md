@@ -8,12 +8,13 @@ The following is a list of plans that represent the continuous roadmap for [[Ver
 
 | Plan                           | Type      | Status | Date             |
 | ------------------------------ | --------- | ------ | ---------------- |
+| [[Vercengen NodeEditor 2]]     | Component | WIP    | 23 January 2026  |
 | [[Confoederatio26]]            | General   | WIP    | 21 January 2026  |
 | [[Vercengen ObjectEditor]]     | Component | DONE   | 20 January 2026  |
 | [[Vercengen ScriptManager]]    | Component | DONE   | 15 January 2026  |
-| [[Vercengen 0.95b Ghassulian]] | General   | WIP    | 24 December 2025 |
+| [[Vercengen 0.95b Ghassulian]] | General   | DONE   | 24 December 2025 |
 | [[Vercengen Polish 1]]         | General   | WIP    | 22 December 2025 |
-| [[Vercengen DatavisSuite]]     | Component | WIP    | 21 December 2025 |
+| [[Vercengen DatavisSuite]]     | Component | DONE   | 21 December 2025 |
 | [[Vercengen NodeEditor]]       | Component | DONE   | 19 December 2025 |
 ### Post-release Caveats
 

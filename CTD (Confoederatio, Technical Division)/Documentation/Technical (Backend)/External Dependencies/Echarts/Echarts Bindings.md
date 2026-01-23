@@ -43,7 +43,7 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 | custom        | Custom               | [[Echarts Custom Chart]]         |
 ## Vercengen Symbol Guide
 
-**Axis Symbols:**
+### **Axis Symbols:**
 - .angle_axis: Object - Echarts: `options.angleAxis`
 	- ...[[Echarts Angle Axis Symbol]]
 - .polar_axis: Object - Echarts: `options.polar`
@@ -52,12 +52,16 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 	- ...[[Echarts Radar Axis Symbol]]
 - .radius_axis: Object - Echarts: `options.radiusAxis`
 	- ...[[Echarts Radius Axis Symbol]]
-- .x_axis: Object - Echarts: `options.xAxis`
+- .x_axis: Object - Echarts: `options.xAxis` DONE
 	- ...[[Echarts X Axis Symbol]]
-- y_axis: Object - Echarts: `options.yAxis`
+- y_axis: Object - Echarts: `options.yAxis` DONE
 	- ...[[Echarts Y Axis Symbol]]
 
-**Graph Symbols:**
+### **Graph Symbols:**
+
+> [!WARNING]
+> Graph symbols are currently a work-in-progress [WIP] and only offer partial coverage.
+
 - .background_colour: string - Echarts: `options.backgroundColor`
 - .default_colours: string[] - Echarts: `options.color` - Determines the default colours each data series takes on.
 - .title: [[Echarts Title Symbol]] - Echarts: `options.title`
@@ -71,9 +75,10 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 	- .x: number|undefined
 	- .y: number|undefined
 	  
-	- .colour: string - `options.visualMap.pieces[n].color`
-	- .gt: number - Lower bound - `options.visualMap.pieces[n].gt`
-	- .lte: number - Upper bound - `options.visualMap.pieces[n].lte`
+	- .pieces: Array\<Object> - Echarts: `options.pieces`
+		- .colour: string - `options.visualMap.pieces[n].color`
+		- .gt: number - Lower bound - `options.visualMap.pieces[n].gt`
+		- .lte: number - Upper bound - `options.visualMap.pieces[n].lte`
 ### **Series Symbols:**
 
 .symbol: Object
@@ -85,20 +90,19 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 - ...[[Echarts Stroke Symbol]]: Object - Echarts: `options.series[n].lineStyle`
   
   **Animation:**
-- initial_animation: Object
-	- delay=0: function|number - Echarts: `options.series[n].animationDelay` - If a function, must return a number.
-	- delay_update=300: function|number - Echarts `options.series[n].animationDelayUpdate`
-	- duration=1000: function|number - Echarts: `options.series[n].animationDuration` - If a function, must return a number.
-	- duration_update=300: function|number - Echarts: `options.series[n].animationDurationUpdate`
-	- easing="cubicOut": string - Echarts: `options.series[n].animationEasing` - Easing effects must be predefined, see [Echarts Easing Examples](https://echarts.apache.org/examples/en/editor.html?c=line-easing)
-	- easing_update="cubicOut": string - Echarts: `options.series[n].animationEasingUpdate` - Easing effects must be predefined, see [Echarts Easing Examples](https://echarts.apache.org/examples/en/editor.html?c=line-easing)
-	- threshold=2000: number
-	- universal_transition: Object - Echarts: `options.series[n].universalTransition`
-		- enabled=false: boolean - Echarts: `options.series[n].universalTransition.enabled`
-		  
-		- delay: function - Echarts: `options.series[n].universalTransition.delay` - Needs to return a number.
-		- divide_shape: string - Echarts: `options.series[n].universalTransition.divideShape` - Either 'split'/'clone'.
-		- series_key: string[] - Echarts: `options.series[n].universalTransition.seriesKey`
+- delay=0: function|number - Echarts: `options.series[n].animationDelay` - If a function, must return a number.
+- delay_update=300: function|number - Echarts `options.series[n].animationDelayUpdate`
+- duration=1000: function|number - Echarts: `options.series[n].animationDuration` - If a function, must return a number.
+- duration_update=300: function|number - Echarts: `options.series[n].animationDurationUpdate`
+- easing="linear": string - Echarts: `options.series[n].animationEasing` - Easing effects must be predefined, see [Echarts Easing Examples](https://echarts.apache.org/examples/en/editor.html?c=line-easing)
+- easing_update="cubicOut": string - Echarts: `options.series[n].animationEasingUpdate` - Easing effects must be predefined, see [Echarts Easing Examples](https://echarts.apache.org/examples/en/editor.html?c=line-easing)
+- threshold=2000: number
+- universal_transition: Object - Echarts: `options.series[n].universalTransition`
+	- enabled=false: boolean - Echarts: `options.series[n].universalTransition.enabled`
+	  
+	- delay: function - Echarts: `options.series[n].universalTransition.delay` - Needs to return a number.
+	- divide_shape: string - Echarts: `options.series[n].universalTransition.divideShape` - Either 'split'/'clone'.
+	- series_key: string[] - Echarts: `options.series[n].universalTransition.seriesKey`
   
   **Behaviour:**
 - .colour_scheme="series": string - Echarts: `options.series[n].colorBy` - Either 'series'/'data'.
@@ -177,5 +181,5 @@ The following notes are dedicated to [Echarts Documentation](https://echarts.apa
 - .large=false: boolean - Echarts: `options.series[n].large`
 - .large_threshold=400: number - Echarts: `options.series[n].largeThreshold`
 - .progressive=5000: number - Echarts: `options.series[n].progressive`
-- .progressive_chunk_mode="mod" - Echarts: `options.series[n].progressiveThreshold`. Either 'mod'/'sequential'.
+- .progressive_chunk_mode="mod" - Echarts: `options.series[n].progressiveChunkMode`. Either 'mod'/'sequential'.
 - .progressive_threshold=3000: number - Echarts: `options.series[n].progressiveThreshold`
