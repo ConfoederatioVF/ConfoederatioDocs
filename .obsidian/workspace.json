@@ -13,71 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
+                "file": "📰 Blogs/23 January 2026 - Build First, Explain Later.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercengen NodeEditor 2"
+              "title": "23 January 2026 - Build First, Explain Later"
             }
           },
           {
-            "id": "2c0563d859c4475d",
+            "id": "9765bc99b7aa015a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Title Symbol.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditor.js (23 January 2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echarts Title Symbol"
-            }
-          },
-          {
-            "id": "31a5a346cc701293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Polar Axis Symbol"
-            }
-          },
-          {
-            "id": "7620cd8bd63f176f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Plans/2026.01.21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026.01.21"
-            }
-          },
-          {
-            "id": "1bbe9fdb431c7d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ObjectEditor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vercengen ObjectEditor"
+              "title": "ComponentNodeEditor.js (23 January 2026)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62ca19e64e25b570",
@@ -89,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.01.16"
+              "title": "Vercengen Releases"
             }
           },
           {
@@ -153,8 +112,7 @@
               "title": "Vercengen Plans"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vercengen NodeEditor 2"
+              "title": "Backlinks for Vercengen Releases"
             }
           },
           {
@@ -318,34 +276,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33e2e924a17052d6",
+  "active": "8cafb33fb70c3314",
   "lastOpenFiles": [
+    "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditor.js (23 January 2026).md",
+    "📰 Blogs/23 January 2026 - Build First, Explain Later.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditorDatatype.js (23 January 2026).md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
+    "📰 Blogs/26 December 2025 - What Is A Graph, Anyway.md",
+    "📰 Blogs/1 January 2026 - Splendid Isolation.md",
+    "_images/ctd/vercengen/vercengen_datavis_suite_preview_01.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Polish 1.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts Bindings.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Radar.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Scatterplot.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Tree.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Treemap.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Title Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/List of CTD Plans.md",
     "CTD (Confoederatio, Technical Division)/Plans/2026.01.18.md",
     "CTD (Confoederatio, Technical Division)/Plans/2025.12.31.md",
-    "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
-    "CTD (Confoederatio, Technical Division)/Plans/2025.12.24.md",
-    "CTD (Confoederatio, Technical Division)/Plans/2026.01.21.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen ObjectEditor.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Echarts.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Tooltip Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Documentation",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
@@ -356,7 +316,6 @@
     "_images/crd/eoscala",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes",
     "_images/ctd/vercengen/vercengen_preview_01.png",
     "_images/ctd/vercengen/vercengen_ObjectInspector.png",
     "_images/ctd/vercengen/vercengen_datavis_suite_prototype.png",
@@ -365,7 +324,6 @@
     "_images/crd/naissance/FeatureTileLayer_1.6b.png",
     "_images/crd/naissance/GeometryPoint_1.5b.png",
     "_images/crd/constele_red/constele_red_logo.png",
-    "_images/crd/naissance/GeometryLine_1.5b.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
