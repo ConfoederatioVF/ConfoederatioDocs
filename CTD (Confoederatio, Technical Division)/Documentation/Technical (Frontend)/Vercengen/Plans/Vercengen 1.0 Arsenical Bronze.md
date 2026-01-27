@@ -3,6 +3,7 @@
 - 27 January: Refactor functions for ve.Colour, ve.NodeEditor, ve.ObjectEditor, ve.List, ve.Range
 	- ve.Colour
 	- ve.NodeEditor WIP
+	- ve.NodeEditorDatatype
 	- ve.ObjectEditor
 	- ve.List
 	- ve.Range
