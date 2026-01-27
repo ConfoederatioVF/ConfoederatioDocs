@@ -3,6 +3,7 @@
 - 27 January: Refactor functions for ve.Colour, ve.NodeEditor, ve.ObjectEditor, ve.List, ve.Range
 	- ve.Colour
 	- ve.NodeEditor WIP
+		- Split off Custom Nodes types into Forse
 	- ve.NodeEditorDatatype
 	- ve.ObjectEditor
 	- ve.List
@@ -10,4 +11,8 @@
 - 28 January: Documentation, finish inline HTML documentation
 - 29 January: Documentation
 - 30 January: File bindings, file explorer for ve.NodeEditor (.ve-ne) file format
-- 31 January: Vercengen 1.0 launch
+- 31 January: Aliases for all utils functions; Vercengen 1.0 launch
+	- Finish EN-GB localisation
+	- Finish FR localisation
+	- Finish DE localisation
+	- Ensure that the release notes are comprehensive by going through all GitHub commits in history
