@@ -8,9 +8,10 @@
 	- ve.ObjectEditor DONE
 	- ve.List DONE
 	- ve.Range DONE
-- 28 January: Documentation, finish inline HTML documentation
-- 29 January: Documentation
-- 30 January: File bindings, file explorer for ve.NodeEditor (.ve-ne) file format
+- 28 January: Documentation, finish inline HTML documentation DONE
+- 29 January: Documentation DONE
+- 30 January: File bindings, file explorer for ve.NodeEditor (.ve-ne) file format DONE
+	- Work on NodeEditor polish (Abort, Run From Node)
 - 31 January: Aliases for all utils functions; Vercengen 1.0 launch
 	- Finish EN-GB localisation
 	- Finish FR localisation

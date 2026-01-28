@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
+                "file": "🔵 Confoederatio/Confoederatio26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercengen Plans"
+              "title": "Confoederatio26"
             }
           }
         ],
@@ -292,10 +292,11 @@
   },
   "active": "69172d2cac57d79d",
   "lastOpenFiles": [
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "🔵 Confoederatio/Confoederatio26.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 1.0 Arsenical Bronze.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditor.js (23 January 2026).md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
     "📰 Blogs/23 January 2026 - Build First, Explain Later.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditorDatatype.js (23 January 2026).md",
@@ -319,7 +320,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Polar Axis Symbol.md",
     "CTD (Confoederatio, Technical Division)/List of CTD Plans.md",
-    "CTD (Confoederatio, Technical Division)/Plans/2026.01.18.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Documentation",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
