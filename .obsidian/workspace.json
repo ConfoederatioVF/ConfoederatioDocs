@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔵 Confoederatio/Confoederatio26.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confoederatio26"
+              "title": "Vercengen NodeEditor 2"
             }
           }
         ],
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 1.0 Arsenical Bronze.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vercengen 1.0 Arsenical Bronze"
+              "title": "Backlinks for Vercengen NodeEditor 2"
             }
           },
           {
@@ -290,12 +290,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69172d2cac57d79d",
+  "active": "de446fdfd430b030",
   "lastOpenFiles": [
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "🔵 Confoederatio/Confoederatio26.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen 1.0 Arsenical Bronze.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditor.js (23 January 2026).md",
     "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
     "📰 Blogs/23 January 2026 - Build First, Explain Later.md",

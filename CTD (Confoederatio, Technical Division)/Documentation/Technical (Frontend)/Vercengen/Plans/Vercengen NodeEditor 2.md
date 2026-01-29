@@ -17,10 +17,15 @@
 - View file explorer
 
 - **Logic:**
-	- ==abort: true in return statement of the `.special_function` should lead to that branch halting execution, but other branches continuing onwards (used for conditional branching)==
-	- Comment Nodes can be placed as text on the grid
-	- Nodes should be able to be grouped effectively by creating custom nodes, which are added onto custom categories
-		- Custom Nodes should have their own icon
-		- Nodes in the Custom Node Editor should take on the shape of the custom ndoe parameter structure:
-			- Parameter Nodes for handling input parameters
-			- Return Node for handling the return value of a custom node
+	- ==abort: true in return statement of the `.special_function` should lead to that branch halting execution, but other branches continuing onwards (used for conditional branching)== DONE
+	- Comment Nodes can be placed as text on the grid DONE
+	- Nodes should be able to be grouped effectively by creating custom nodes, which are added onto custom categories WIP
+		- Custom Nodes should have their own icon DONE
+		- Nodes in the Custom Node Editor should take on the shape of the custom node parameter structure: DONE
+			- Parameter Nodes for handling input parameters DONE
+			- Return Node for handling the return value of a custom node DONE
+
+## NEW TODO.
+
+- Add Time Elapsed (Progress %/ETA) timer to Run Window, updated per draw call if \_is_running_non_preview=true.
+	- Once the graph finishes running, Time Elapsed should still be displayed with the status being 100% and all nodes ran.
