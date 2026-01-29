@@ -27,5 +27,6 @@
 
 ## NEW TODO.
 
+- Ability to create custom categories next to the Create Custom Node button
 - Add Time Elapsed (Progress %/ETA) timer to Run Window, updated per draw call if \_is_running_non_preview=true.
 	- Once the graph finishes running, Time Elapsed should still be displayed with the status being 100% and all nodes ran.
