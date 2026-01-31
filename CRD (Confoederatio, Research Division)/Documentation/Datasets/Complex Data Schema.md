@@ -16,10 +16,13 @@ This allows for databases to be structured more like iterative software as oppos
 2. **Data Cleaning**
    Initial databases have had their data structures mutated for easier manipulation and unification in the merging phase. This often includes data interpolation and statistical techniques to make data series comparable to one another (i.e. in the case of proxy variables).
    
+   All intermediate databases at this stage (i.e. KK10LUH2 for Velkscala) should be made available here, since they have technically been cleaned and are not primary. They should be prefixed with a `$` sign.
+   
 	1. `2.data_cleaning/`
-		1. `<variable_name>_<input_database_name>/`
-		2. `<variable_name>_UI/`
-		3. `<variable_name>_UI.js` - Used for editing GUIs that bind the current database to a visualisation when its view is toggled. Note that it must support adding/removing its visualisation to the scene. Encapsulated by a class.
+		1. `$<variable_name>_<intermediate_database_name>/` - Intermediate databases should **NOT** have UIs, since they are temporary and can be regenerated at any time.
+		2. `<variable_name>_<input_database_name>/`
+		3. `<variable_name>_UI/`
+		4. `<variable_name>_UI.js` - Used for editing GUIs that bind the current database to a visualisation when its view is toggled. Note that it must support adding/removing its visualisation to the scene. Encapsulated by a class.
 3. **Data Merging**
    The goal of data merging is unification and the collation of all previous cleaned datasets into a single cross-comparable object. This typically takes multiple stages, whose goal is to flatten the data as much as possible for easier parsing whilst preserving fidelity. (The UUD in [[Stadestér]] is an example of Data Merging).
    
