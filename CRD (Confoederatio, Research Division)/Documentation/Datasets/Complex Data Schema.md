@@ -18,6 +18,8 @@ This allows for databases to be structured more like iterative software as oppos
    
 	1. `2.data_cleaning/`
 		1. `<variable_name>_<input_database_name>/`
+		2. `<variable_name>_UI/`
+		3. `<variable_name>_UI.js` - Used for editing GUIs that bind the current database to a visualisation when its view is toggled. Note that it must support adding/removing its visualisation to the scene. Encapsulated by a class.
 3. **Data Merging**
    The goal of data merging is unification and the collation of all previous cleaned datasets into a single cross-comparable object. This typically takes multiple stages, whose goal is to flatten the data as much as possible for easier parsing whilst preserving fidelity. (The UUD in [[Stadestér]] is an example of Data Merging).
    
@@ -40,7 +42,7 @@ This allows for databases to be structured more like iterative software as oppos
 		1. `analysis/`
 			1. `<tool_class_name>/`
 			2. `<tool_class_name>.js`
-		2. `<layer_name>/`
+		2. `<mapmode_name>/`
 
 **App/GUI:**
 A main dashboard app, from which tasks can be multithreaded is provided as `./autorun.bat`, and serves as the main entry point into a complex database. It is divided into the following views:
