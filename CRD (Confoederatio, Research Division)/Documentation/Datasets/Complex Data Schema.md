@@ -22,8 +22,9 @@ This allows for databases to be structured more like iterative software as oppos
 		1. `$<variable_name>_<intermediate_database_name>/` - Intermediate databases should **NOT** have UIs, since they are temporary and can be regenerated at any time.
 		2. `<variable_name>_<input_database_name>/`
 			1. `<variable_name>_<input_database_name>.js` - ==Every main class for each database is defined here, regardless of which stage it starts at, to centralise data structures.==
-				1. getProcessingNodes() - Class method that ideally returns all node types relevant to processing the dataset. 
-				2. When cleaning a database is multistep, method names and static variables should be alphabetised, with the 1st step being `A_<name>`, and the last step up to the 26th being `Z_<name>`, before cycling back to `AA_<name>`, etc.
+				1. getNodes() - Class method that ideally returns all node types relevant to processing the dataset. 
+				2. process() - Class method that executes the current data step.
+				3. When cleaning a database is multistep, method names and static variables should be alphabetised, with the 1st step being `A_<name>`, and the last step up to the 26th being `Z_<name>`, before cycling back to `AA_<name>`, etc.
 		3. `<variable_name>_UI/`
 		4. `<variable_name>_UI.js` - Used for editing GUIs that bind the current database to a visualisation when its view is toggled. Note that it must support adding/removing its visualisation to the scene. Encapsulated by a class.
 3. **Data Merging**
