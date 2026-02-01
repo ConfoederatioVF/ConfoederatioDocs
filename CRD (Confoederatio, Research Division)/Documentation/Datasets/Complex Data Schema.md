@@ -23,6 +23,7 @@ This allows for databases to be structured more like iterative software as oppos
 		2. `<variable_name>_<input_database_name>/`
 			1. `<variable_name>_<input_database_name>.js` - ==Every main class for each database is defined here, regardless of which stage it starts at, to centralise data structures.==
 				1. getProcessingNodes() - Class method that ideally returns all node types relevant to processing the dataset. 
+				2. When cleaning a database is multistep, method names and static variables should be alphabetised, with the 1st step being `A_<name>`, and the last step up to the 26th being `Z_<name>`, before cycling back to `AA_<name>`, etc.
 		3. `<variable_name>_UI/`
 		4. `<variable_name>_UI.js` - Used for editing GUIs that bind the current database to a visualisation when its view is toggled. Note that it must support adding/removing its visualisation to the scene. Encapsulated by a class.
 3. **Data Merging**
@@ -47,7 +48,7 @@ This allows for databases to be structured more like iterative software as oppos
 		1. `analysis/`
 			1. `<tool_class_name>/`
 			2. `<tool_class_name>.js`
-		2. `<mapmode_name>/`
+		2. `mapmodes/<mapmode_name>/`
 
 **App/GUI:**
 A main dashboard app, from which tasks can be multithreaded is provided as `./autorun.bat`, and serves as the main entry point into a complex database. It is divided into the following views:

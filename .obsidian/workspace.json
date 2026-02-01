@@ -291,8 +291,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12f81ed388240afb",
+  "active": "8cafb33fb70c3314",
   "lastOpenFiles": [
+    "_images/crd/cliopatria",
+    "_images/crd/atlas",
     "Untitled.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Complex Data Schema.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
@@ -320,7 +322,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Treemap.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Title Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Axis Symbols/Echarts Y Axis Symbol.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Symbols/Echarts Text Symbol.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Documentation",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
@@ -330,7 +331,6 @@
     "_images/crd/velkscala",
     "_images/crd/eoscala",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions",
-    "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Research Notes/Stadestér 1.1",
     "_images/ctd/vercengen/vercengen_preview_01.png",
     "_images/ctd/vercengen/vercengen_ObjectInspector.png",
     "_images/ctd/vercengen/vercengen_datavis_suite_prototype.png",
