@@ -1,5 +1,7 @@
 This page details the current backlog relevant to [[Confoederatio]], as well as the dates at which any changes have been committed to **Confoederatio projects** by namespace.
 
+**Vercengen** (February 2026):
+- Release 1.0.1 with given patch notes.
 **SVEA** (February 2026):
 - **Vercengen:**
 	- Telestyle:

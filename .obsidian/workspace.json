@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🔵 Confoederatio/Confoederatio Backlog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Confoederatio Backlog"
             }
           },
           {
@@ -291,8 +291,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cafb33fb70c3314",
+  "active": "12f81ed388240afb",
   "lastOpenFiles": [
+    "Home.md",
     "FAQs.md",
     "Confoederatio.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
@@ -322,7 +323,6 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Radar.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Scatterplot.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Tree.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Treemap.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Documentation",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Scripts",
