@@ -1,16 +1,17 @@
 This page details the current backlog relevant to [[Confoederatio]], as well as the dates at which any changes have been committed to **Confoederatio projects** by namespace.
 
 **Vercengen** (February 2026):
-- Release 1.0.1 with given patch notes.
-**SVEA** (February 2026):
-- **Vercengen:**
+- Release 1.0.1 with given patch notes. DONE
+- Release 1.0.2:
 	- Telestyle:
 		- Fix Telestyle themes
 		- Fix Telestyle to be able to handle dynamic immediate modes
 	- ve.Feature:
 		- Integrate ve.Feature to have Telestyle
 		- Integrate methods from ve.Component into ve.Feature
-	- ve.Tooltip needs fixing so that its text height is bound to the body text height
+	- ve.Tooltip: DONE
+		- Fix so that Tippy tooltips are globally anchored, and not anchored to the element at hand DONE
+		- Needs fixing so that its text height is bound to the body text height DONE
 	- ve.UndoRedo
 		- Manual commits to DALS using diff states/temp saves
 			- Mode selector for toggling between manual commit modes
@@ -19,7 +20,13 @@ This page details the current backlog relevant to [[Confoederatio]], as well as 
 		- ScriptManager should be able to handle multiple instances for Monaco
 		- ScriptManager should restore views and code folding when switching between files
 	- ve.Window
-		- Fix UIs using windows
+		- Fix UIs using windows for Naissance HGIS
+	- Release 1.0.2 with patch notes
+- Release 1.0.3:
+	- Finish porting Geospatiale II to Geospatiale III with namespaces
+	- Finish porting other backend utils functions from old UF
+	- Release 1.0.3 with patch notes
+**SVEA** (February 2026):
 - **Naissance HGIS:**
 	- Save name/highlighting by 'Naissance HGIS' in Navbar, it should have the name of the save/project instead
 	- The last project opened should be automatically reopened when launching Naissance HGIS
@@ -31,6 +38,7 @@ This page details the current backlog relevant to [[Confoederatio]], as well as 
 		- Entity time domains with `.is_starting_frame`: boolean with starting frame recognition
 	- <u>Mapmodes</u>:
 		- naissance.Mapmode:
+			- is_default: boolean - sets this mapmode as a default mapmode from the beginning
 			- mode: string - 'default'/'overlay'/'override'
 				- default: colours default geometries in entity layer
 				- overlay: layers on geometries either below or under the entity layer
