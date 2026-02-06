@@ -1,5 +1,7 @@
 This page details the current backlog relevant to [[Confoederatio]], as well as the dates at which any changes have been committed to **Confoederatio projects** by namespace.
 
+Current priorities are highlighted in ==YELLOW==.
+
 **Vercengen** (February 2026):
 - Release 1.0.1 with given patch notes. DONE
 - Release 1.0.2:
@@ -27,6 +29,17 @@ This page details the current backlog relevant to [[Confoederatio]], as well as 
 	- Finish porting other backend utils functions from old UF
 	- Release 1.0.3 with patch notes
 **SVEA** (February 2026):
+- ==(Histmap) **KK10/LUH2:**==
+	1. Convert HYDE to GeoPNGs
+	2. Scale HYDE to McEvedy
+	3. Scale HYDE to global population estimates
+	4. Scale KK10/LUH2 to Nelson based on delta change rates (backcalculation based on graph extraction % Pop Change/decade). Contemporary populations backcalculated from GHS-POP
+	5. Scale KK10/LUH2 to OWID
+	6. Scale KK10/LUH2 to global population estimates
+	7. Outlier masking: make sure to add missing outlier for Jakarta, Indonesia
+	8. Create global population substrata map with previous methodology
+	9. Add node-based view for processing KK10/LUH2 Substrata
+	10. Project Centaur handling for Northern America (from Stadestér)
 - **Naissance HGIS:**
 	- Save name/highlighting by 'Naissance HGIS' in Navbar, it should have the name of the save/project instead
 	- The last project opened should be automatically reopened when launching Naissance HGIS
