@@ -1,0 +1,43 @@
+This page details the current backlog relevant to [[Confoederatio]], as well as the dates at which any changes have been committed to **Confoederatio projects** by namespace.
+
+**SVEA** (February 2026):
+- **Vercengen:**
+	- Telestyle:
+		- Fix Telestyle themes
+		- Fix Telestyle to be able to handle dynamic immediate modes
+	- ve.Feature:
+		- Integrate ve.Feature to have Telestyle
+		- Integrate methods from ve.Component into ve.Feature
+	- ve.Tooltip needs fixing so that its text height is bound to the body text height
+	- ve.UndoRedo
+		- Manual commits to DALS using diff states/temp saves
+			- Mode selector for toggling between manual commit modes
+		- The 1st action in DALS doesn't jump to that action, but the 2nd and 3rd ones do
+	- ve.ScriptManager
+		- ScriptManager should be able to handle multiple instances for Monaco
+		- ScriptManager should restore views and code folding when switching between files
+	- ve.Window
+		- Fix UIs using windows
+- **Naissance HGIS:**
+	- Save name/highlighting by 'Naissance HGIS' in Navbar, it should have the name of the save/project instead
+	- The last project opened should be automatically reopened when launching Naissance HGIS
+	  
+	- <u>DALS</u>:
+		- Integration for variable Editors
+		- Variable editors should save formatting. Make sure they do!
+	- <u>Naissance Entities</u>:
+		- Entity time domains with `.is_starting_frame`: boolean with starting frame recognition
+	- <u>Mapmodes</u>:
+		- naissance.Mapmode:
+			- mode: string - 'default'/'overlay'/'override'
+				- default: colours default geometries in entity layer
+				- overlay: layers on geometries either below or under the entity layer
+			- override: boolean - resets all mapmodes and ensures that is the only mapmode available
+		- Mapmode indicators with index in top right corner
+		- Set mapmodes to last saved mapmodes when loading saves
+		- Store non-default mapmodes save-side
+			- Add New Mapmode
+			- Delete Mapmode (only available for non-default mapmodes)
+			- Mapmode Node Editors should be run in JS form `special_function`
+			- Remove Mapmode
+			- Reorder Mapmodes
