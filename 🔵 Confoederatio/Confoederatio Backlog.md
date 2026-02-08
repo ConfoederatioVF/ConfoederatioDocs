@@ -25,8 +25,10 @@ Current priorities are highlighted in ==YELLOW==.
 		- Fix UIs using windows for Naissance HGIS
 	- Release 1.0.2 with patch notes
 - Release 1.0.3:
-	- Finish porting Geospatiale II to Geospatiale III with namespaces
-	- Finish porting other backend utils functions from old UF
+	- Finish porting Geospatiale II to Geospatiale III with namespaces DONE
+	- Finish porting other backend utils functions from old UF WIP
+		- Reform multiline literal comments to use `<br>- ` formatting for bullet points/indentation
+		- Add logging system to Vercengen with multiple logging channels that can be selected and prefix formats
 	- Release 1.0.3 with patch notes
 **SVEA** (February 2026):
 - ==(Histmap) **KK10/LUH2:**==
@@ -64,3 +66,5 @@ Current priorities are highlighted in ==YELLOW==.
 			- Mapmode Node Editors should be run in JS form `special_function`
 			- Remove Mapmode
 			- Reorder Mapmodes
+	- **Geospatiale IV:**
+		- Make sure that all methods from Geospatiale III dealing with file conversions have default async modes, and that non-async modes should be marked with a `Sync` suffix
