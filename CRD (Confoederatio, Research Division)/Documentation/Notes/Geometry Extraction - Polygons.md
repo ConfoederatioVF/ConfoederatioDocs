@@ -28,3 +28,15 @@
 		2. By default, the auto-populated legend will use Lab-space kNN binning with colour distance; proximity thresholds
 	3. Union duplicates
 3. Convert to GeoJSON
+
+## Consistent Solutions
+
+Consistent solutions for contested regions of the world in which sovereignty changes rapidly are as follows:
+
+- Deepstatemap (Ukraine only)
+- ISW (kNN-binning extraction)
+- Liveuamap (global)
+- Suriyakmaps
+- Wikipedia SVGs (global, best quality)
+
+At start, it is recommended for data to come from Wikipedia SVGs. Control polygons should have probability ranges for contested areas.

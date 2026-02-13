@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Polygons.md",
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometry Extraction - Polygons"
+              "title": "Get Leaflet Map Objects - Tampermonkey"
             }
           }
         ],
@@ -83,37 +83,9 @@
               "icon": "lucide-file",
               "title": "Echarts Bar Chart"
             }
-          },
-          {
-            "id": "e9316c6be94c03c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echarts Pie Chart"
-            }
-          },
-          {
-            "id": "f4fc06bd6c9bdb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Points.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geometry Extraction - Points"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Polygons.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Geometry Extraction - Polygons"
+              "title": "Backlinks for Echarts Bar Chart"
             }
           },
           {
@@ -277,10 +249,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ba20adb215f663a",
+  "active": "dca8ec6188fcac3f",
   "lastOpenFiles": [
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Points.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+    "Home.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Collation Libraries.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Polygons.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Points.md",
     "📰 Blogs/9 February 2026 - Logistics Policy. Invented There.md",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes",
@@ -294,7 +271,6 @@
     "_images/crd/naissance/naissance_1.7b_chukchi.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen NodeEditor 2.md",
-    "Home.md",
     "FAQs.md",
     "Confoederatio.md",
     "_images/crd/cliopatria",
@@ -305,11 +281,7 @@
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditor.js (23 January 2026).md",
     "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
     "📰 Blogs/23 January 2026 - Build First, Explain Later.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditorDatatype.js (23 January 2026).md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Examples/NodeEditor Example.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
     "_images/ctd/vercengen/vercengen_datavis_suite_preview_01.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Documentation",
     "_images/crd/stadester/spatiotemporal_development_base_vs_angel.png",
