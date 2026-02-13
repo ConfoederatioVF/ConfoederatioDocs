@@ -24,16 +24,18 @@ This methodology will primarily be split up into 5 main phases:
    
    The work of [Andrea Biguzzi](https://www.worldcitypop.com/data.asp) should form the basis of this dataset with percentage-based relative declines/increases to benchmark populations contained here. This would involve the following steps:
 	1. Latlng geolocation scripting for all cities in the world city population database, as well as consistent source tracking in metadata/localisation terms.
-3. Preindustrial (2000BC-1800AD)
-	1. Merging of Populstat from [[Stadestér 1.0 Edo]] with Biguzzi/Chandler/Modelski.
-	2. Add outlier mask for Jakarta, Indonesia
-	3. (Velkscala):
-		1. Rework Nelson adjustment by using percentage growth instead of OCR pixel radius
-			1. Reprocess substrata
-	4. Remove DeVries from dataset, use Buringh only when merging (Biguzzi already included DeVries)
-4. Industrial (1800AD-1975AD)
+	2. Relative anchoring with Biguzzi as GT and Chandler/Modelski changes representing RNI (rate of natural increase) between averaged anchor points.
+1. Preindustrial (2000BC-1800AD)
+	1. Merging of Populstat from [[Stadestér 1.0 Edo]] with Biguzzi/Chandler/Modelski via proximity/semantic merging
+	2. Merging with Buringh (geomean)
+	3. Add outlier mask for Jakarta, Indonesia
+	4. (Velkscala): REVISIT
+		1. Rework Nelson adjustment by using percentage growth instead of OCR pixel radius DONE
+			1. Reprocess substrata DONE
+	5. Remove DeVries from dataset, use Buringh only when merging (Biguzzi already included DeVries)
+2. Industrial (1800AD-1975AD)
 	1. Metro buffering (1800-1945), with interactive spatiotemporal visualisations (see Python code). This buffering code should be identical to that of Stadestér 1.0 since it performed quite well in Jaccard index terms.
-5. Modern (1975-2025AD)
+3. Modern (1975-2025AD)
 	1. GHSL data combined with GHS-POP
 	2. Remove Stadestér-GHSL discontinuities
 		1. Take the highest population from base GHS POP pixel if the city no longer exists in Stadestér-GHSL and retain it until 2025
