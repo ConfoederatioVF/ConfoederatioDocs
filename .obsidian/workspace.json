@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+                "file": "🔵 Confoederatio/Confoederatio Backlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercengen Releases"
+              "title": "Confoederatio Backlog"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Get Leaflet Map Objects - Tampermonkey"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62ca19e64e25b570",
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+                "file": "🔵 Confoederatio/Confoederatio Backlog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Echarts Bar Chart"
+              "title": "Backlinks for Confoederatio Backlog"
             }
           },
           {
@@ -249,10 +248,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dca8ec6188fcac3f",
+  "active": "8cafb33fb70c3314",
   "lastOpenFiles": [
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
     "Home.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Collation Libraries.md",
@@ -262,7 +262,6 @@
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Stadestér/Versions/Stadestér 1.1 Cusco.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes",
     "CRD (Confoederatio, Research Division)/Documentation/Datasets/Complex Data Schema.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "📰 Blogs/9 December 2025 - Closing the Ring.md",
     "📰 Blogs/1 January 2026 - Splendid Isolation.md",
     "📰 Blogs/6 December 2025 - The Long Road Ahead.md",

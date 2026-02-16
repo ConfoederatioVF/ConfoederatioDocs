@@ -6,9 +6,9 @@ This page details the current backlog relevant to [[Confoederatio]], as well as 
 
 Current priorities are highlighted in ==YELLOW==.
 
-==**Maintenance Backlog** (February 2026):==
-- Update Snow Zed npm version
-- Update Triumph & Tragedy npm version
+**Maintenance Backlog** (February 2026):
+- Update Snow Zed npm version DONE
+- Update Triumph & Tragedy npm version DONE
 
 **Vercengen** (February 2026):
 - Release 1.0.1 with given patch notes. DONE
@@ -19,8 +19,10 @@ Current priorities are highlighted in ==YELLOW==.
 	- ve.Feature:
 		- Integrate ve.Feature to have Telestyle
 		- Integrate methods from ve.Component into ve.Feature
+	- ve.Log:
+		- Multiple channels with search select on left and the current channel highlighted, with inverted colour scheme for highlighted channels
 	- ve.Tooltip: DONE
-		- Fix so that Tippy tooltips are globally anch#plans #confoederatio #Y2026
+		- Fix so that Tippy tooltips are globally anchored DONE
 
 See also: [[Confoederatio]]
 
