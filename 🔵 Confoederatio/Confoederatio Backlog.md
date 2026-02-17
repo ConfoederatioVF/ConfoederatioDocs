@@ -19,8 +19,10 @@ Current priorities are highlighted in ==YELLOW==.
 	- ve.Feature:
 		- Integrate ve.Feature to have Telestyle
 		- Integrate methods from ve.Component into ve.Feature
-	- ve.Log: DONE
+	- ve.Log:
 		- Multiple channels with search select on left and the current channel highlighted, with inverted colour scheme for highlighted channels DONE
+		- Localisation for log.Channel DONE
+		- Localisation for ve.Log DONE
 	- ve.ScriptManager:
 		- Move ScriptManager console to use ve.Log instead of its own implementation
 	- ve.Tooltip: DONE
@@ -98,16 +100,16 @@ Dates are specified as being when projects end, i.e. deadlines, not when they st
 	- Release 1.0.3 with patch notes
 **SVEA** (February 2026):
 - ==(Histmap) **KK10/LUH2:**==
-	1. Convert HYDE to GeoPNGs
-	2. Scale HYDE to McEvedy
-	3. Scale HYDE to global population estimates
-	4. Scale KK10/LUH2 to Nelson based on delta change rates (backcalculation based on graph extraction % Pop Change/decade). Contemporary populations backcalculated from GHS-POP
-	5. Scale KK10/LUH2 to OWID
-	6. Scale KK10/LUH2 to global population estimates
-	7. Outlier masking: make sure to add missing outlier for Jakarta, Indonesia
-	8. Create global population substrata map with previous methodology
+	1. Convert HYDE to GeoPNGs DONE
+	2. Scale HYDE to McEvedy DONE
+	3. Scale HYDE to global population estimates DONE
+	4. Scale KK10/LUH2 to Nelson based on delta change rates (backcalculation based on graph extraction % Pop Change/decade). Contemporary populations backcalculated from GHS-POP DONE
+	5. Scale KK10/LUH2 to OWID DONE
+	6. Scale KK10/LUH2 to global population estimates DONE
+	7. Outlier masking: make sure to add missing outlier for Jakarta, Indonesia DONE
+	8. Create global population substrata map with previous methodology DONE
 	9. Add node-based view for processing KK10/LUH2 Substrata
-	10. Project Centaur handling for Northern America (from Stadestér)
+	10. Project Centaur handling for Northern America (from Stadestér) DONE
 - **Naissance HGIS:**
 	- Save name/highlighting by 'Naissance HGIS' in Navbar, it should have the name of the save/project instead
 	- The last project opened should be automatically reopened when launching Naissance HGIS
