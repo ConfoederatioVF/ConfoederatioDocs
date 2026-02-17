@@ -19,8 +19,10 @@ Current priorities are highlighted in ==YELLOW==.
 	- ve.Feature:
 		- Integrate ve.Feature to have Telestyle
 		- Integrate methods from ve.Component into ve.Feature
-	- ve.Log:
-		- Multiple channels with search select on left and the current channel highlighted, with inverted colour scheme for highlighted channels
+	- ve.Log: DONE
+		- Multiple channels with search select on left and the current channel highlighted, with inverted colour scheme for highlighted channels DONE
+	- ve.ScriptManager:
+		- Move ScriptManager console to use ve.Log instead of its own implementation
 	- ve.Tooltip: DONE
 		- Fix so that Tippy tooltips are globally anchored DONE
 
