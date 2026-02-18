@@ -5952,6 +5952,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Blacktraffic.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 1472,
+      "nonWhitespaceCharacterCount": 1331,
+      "newlineCount": 40,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771390949550,
+      "modifiedDate": 1771391218491,
+      "sizeInBytes": 1472,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

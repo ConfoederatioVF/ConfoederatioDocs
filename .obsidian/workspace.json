@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Blacktraffic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echarts Bar Chart"
+              "title": "Vercengen Blacktraffic"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Blacktraffic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Echarts Bar Chart"
+              "title": "Backlinks for Vercengen Blacktraffic"
             }
           },
           {
@@ -251,10 +251,11 @@
   },
   "active": "dca8ec6188fcac3f",
   "lastOpenFiles": [
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Blacktraffic.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "🔵 Confoederatio/Confoederatio Backlog.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
     "Home.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Collation Libraries.md",
@@ -280,7 +281,6 @@
     "🔵 Confoederatio/Confoederatio26.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives/ComponentNodeEditor.js (23 January 2026).md",
     "CTD (Confoederatio, Technical Division)/Plans/2026.01.16.md",
-    "📰 Blogs/23 January 2026 - Build First, Explain Later.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Archives",
     "_images/ctd/vercengen/vercengen_datavis_suite_preview_01.png",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Documentation",
