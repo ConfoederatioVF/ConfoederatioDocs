@@ -35,7 +35,8 @@
               "title": "Get Leaflet Map Objects - Tampermonkey"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62ca19e64e25b570",
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+                "file": "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vercengen Releases"
+              "title": "Backlinks for Echarts Bar Chart"
             }
           },
           {
@@ -248,12 +249,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cafb33fb70c3314",
+  "active": "dca8ec6188fcac3f",
   "lastOpenFiles": [
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
+    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
     "🔵 Confoederatio/Confoederatio Backlog.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
     "Home.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Collation Libraries.md",
