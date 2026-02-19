@@ -9,13 +9,15 @@
 	- user_data_folder: string - Refers to a Chrome profile necessary for spoofing
 - **Methods:**
 - captureConsoleToChannel(arg0_channel_key) - 'console' by default if not provided
-- close()
+- close() - Closes the mounted browser
 - closeTab(arg0_tab)
+- closeUserTabs() - Closes all tabs that do not have an `.id` assigned to them.
 - focusTab(arg0_tab)
 - getTab(arg0_tab_key)
 - getTabs() | Array\<Tab\>
 - injectScript(arg0_tab, arg1_function)
 - injectScriptOnload(arg0_tab, arg1_function)
+- open() - Opens a browser if it the constructor browser has been unmounted
 - openTab(arg0_tab)
 - reloadTab(arg0_tab)
 - tabExists(arg0_tab)
@@ -24,13 +26,15 @@
 **Blacktraffic.AgentBrowserSelenium:**
 - **Methods:**
 - captureConsoleToChannel(arg0_channel_key) - 'console' by default if not provided
-- close()
+- close() - Closes the mounted browser
 - closeTab(arg0_tab)
+- closeUserTabs() - Closes all tabs that do not have an `.id` assigned to them.
 - focusTab(arg0_tab)
 - getTab(arg0_tab_key)
 - getTabs() | Array\<Tab\>
 - injectScript(arg0_tab, arg1_function)
 - injectScriptOnload(arg0_tab, arg1_function)
+- open() - Opens a browser if it the constructor browser has been unmounted
 - openTab(arg0_tab)
 - reloadTab(arg0_tab)
 - tabExists(arg0_tab)
