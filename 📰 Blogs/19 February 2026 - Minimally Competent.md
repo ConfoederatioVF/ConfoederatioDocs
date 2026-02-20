@@ -8,7 +8,7 @@ Vis Tacitus
 #blogs #confoederatio #Y2026
 ![[lab_space_knn_binning.png]]<div align = "center">Lab-space kNN binning for polygon extraction and vectorisation from complex raster maps.</div>
 
-We are not normal humans. Neither are we experts. We only have two core members and we must take stock of the cards we can play, almost like some sort of grotesque boardgame. These must be divided into capabilities (the pertinent skills we have and what we can reasonably accomplish), infrastructure (independent platforms that have already been built we can lean upon), weaknesses (what we find impossible to do), and end objectives (the ends to our means).
+We are not normal humans. Neither are we experts. As an indie data science studio, we have only have two core members and we must take stock of the cards we can play, almost like some sort of grotesque boardgame. These must be divided into capabilities (the pertinent skills we have and what we can reasonably accomplish), infrastructure (independent platforms that have already been built we can lean upon), weaknesses (what we find impossible to do), and end objectives (the ends to our means).
 
 Ideally, our strategy should be asymmetric. We have nearly no good path towards fixing our weaknesses and so we should seek to maximally leverage the capabilities and infrastructure we do have to achieve our objectives whilst avoiding them as much as possible.
 
@@ -21,6 +21,10 @@ These tasks include database construction, cleaning, synthesis, leveraging paywa
 **What does information production mean?**
 
 Its tangible endpoint is a complete digital twin of Earth with total spatiotemporal awareness. Its production would involve both a Livemap for ingesting live data sources and their real-time scraping, cleaning, and analysis (focused on ORBATs, logistics, geopol, and finance), as well as Histmap (historical map) for historical economics, demography, and politics.
+
+If we live in an information economy, there is a logical endpoint to it - a digital twin of Earth with total spatiotemporal awareness. Our primary advantage in racing to build this crystal ball, hazy as it may be, is that no one else has realised it is the endgoal yet. And because no one on the internet can be convinced, no one will.
+
+We, the minimally competent, have to be the open-source vanguard. Better us than some corpo.
 ## Infrastructure
 
 ![[naissance_1.7b_chukchi.png]]
@@ -42,7 +46,7 @@ Additionally, beta tooling suites whose security has not been proven have also b
 
 **Histmap.**
 
-The historical databases we have are best-in-class, since they represent syntheses of existing calculations and have been thoroughly tested and validated. In addition, 
+The historical databases we have are best-in-class, since they represent syntheses of existing calculations and have been thoroughly tested and validated.
 
 - [[Stadestér]]. Digital urban database (3000BC-2025AD)
 - [[Velkscala]]. Digital population database (10000BC-2025AD)
