@@ -13,7 +13,7 @@ Current priorities are highlighted in ==YELLOW==.
 ==**Livemap Backlog** (February 2026):==
 1. backend consolidation WIP
 	1. Functions registry for AgentBrowser (see webAPI for scrapers)
-	2. Fix AgentBrowser so that Chrome can be latched onto, even if a Chrome instance is already running
+	2. Fix AgentBrowser so that Chrome can be latched onto, even if a Chrome instance is already running DONE
 	3. AgentBrowser cache to make sure tasks can be distributed across browsers, with everything bound to a tab
 2. webAPI for scrapers
 3. fix hierarchy reordering bug for naissance HGIS
