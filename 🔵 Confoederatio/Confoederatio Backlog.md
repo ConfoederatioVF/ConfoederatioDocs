@@ -11,7 +11,10 @@ Current priorities are highlighted in ==YELLOW==.
 - Update Triumph & Tragedy npm version DONE
 
 ==**Livemap Backlog** (February 2026):==
-1. backend consolidation
+1. backend consolidation WIP
+	1. Functions registry for AgentBrowser (see webAPI for scrapers)
+	2. Fix AgentBrowser so that Chrome can be latched onto, even if a Chrome instance is already running
+	3. AgentBrowser cache to make sure tasks can be distributed across browsers, with everything bound to a tab
 2. webAPI for scrapers
 3. fix hierarchy reordering bug for naissance HGIS
 4. fix tile layer issues for naissance HGIS, where layer opacities do not stick and layers cannot be flexibly reordered (make sure render order logic is robust)
