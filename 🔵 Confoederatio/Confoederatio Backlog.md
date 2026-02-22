@@ -10,6 +10,18 @@ Current priorities are highlighted in ==YELLOW==.
 - Update Snow Zed npm version DONE
 - Update Triumph & Tragedy npm version DONE
 
+==**Livemap Backlog** (February 2026):==
+1. backend consolidation
+2. webAPI for scrapers
+3. fix hierarchy reordering bug for naissance HGIS
+4. fix tile layer issues for naissance HGIS, where layer opacities do not stick and layers cannot be flexibly reordered (make sure render order logic is robust)
+5. livemap mapmode
+6. worker dashboard and management
+7. scraper classes should fulfil a contract so they can report status back
+8. ontological restructure
+9. AI wrapper work with AgentBrowserAI contract
+10. Make sure schema is implemented similarly to [[Livemap Data Schema]]
+
 **Vercengen** (February 2026):
 - Release 1.0.1 with given patch notes. DONE
 - Release 1.0.2:
