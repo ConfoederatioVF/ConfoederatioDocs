@@ -72,6 +72,11 @@ RelationObject:
 - .type: string[]|undefined - Assumed to be 'relation' by default. The type of relationship held with the other Onttology.
 
 Object:
+
+Ontologies use negative diffing instead of positive diffing, meaning that the head state is the most recent keyframe entry, whereas state mutations apply to past keyframes. This requires a fundamentally different architecture, but makes Ontologies faster to load.
+
+- static instances: Ontology[]
+- static ontology_folder_path: string
 - static queue: Ontology[] - Current ontologies that have arrived in the last 100ms for ID assignment. Immediately cleared thereafter.
 
 - .id: string - Unique Ontology ID. This should be done by hashing the inception date alongside the Ontology instances in queue.
