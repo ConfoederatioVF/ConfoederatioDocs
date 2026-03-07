@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Documentation/Livemap/Livemap Data Schema.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Livemap Data Schema"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -264,14 +264,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97a16d4b77863444",
+  "active": "472525be9a8d165d",
   "lastOpenFiles": [
+    "CRD (Confoederatio, Research Division)/Documentation/Livemap/Livemap Data Schema.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Blacktraffic.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/ML Georeferencer.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Get MarineTraffic Naval Vessels.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance HGIS.md",
     "Home.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Livemap/Livemap Data Schema.md",
     "CRD (Confoederatio, Research Division)/Documentation/Histmap/Complex Data Schema.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Get GlobalFishingWatch Data.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
