@@ -108,7 +108,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complex data sche",
+                "query": "middle east",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -138,7 +138,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Complex Data Schema"
+              "title": "Rückverweise auf Complex Data Schema"
             }
           },
           {
@@ -237,19 +238,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "publish:Änderungen veröffentlichen": false,
+      "bases:Neue Base erstellen": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "publish:Publish changes...": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cafb33fb70c3314",
+  "active": "8abfa731e95e5147",
   "lastOpenFiles": [
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance HGIS.md",
     "📰 Blogs/19 February 2026 - Minimally Competent.md",
