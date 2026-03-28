@@ -3,7 +3,7 @@ cover: https://i.postimg.cc/qvvmDC6H/embed-template.png
 description: Centralised documentation for all Confoederatio projects. If this is the homepage, please select the project you are looking for.
 ---
 
-<h2 align="right"><b><!-- COUNT_START -->162<!-- COUNT_END --></b> Pages</h2>
+<h2 align="right"><b><!-- COUNT_START -->164<!-- COUNT_END --></b> Pages</h2>
 
 <div align = "center">
 An ongoing project on the full documentation of all projects managed by Confoederatio and their histories.<br>

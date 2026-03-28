@@ -22,7 +22,7 @@ These tasks include database construction, cleaning, synthesis, leveraging paywa
 
 Its tangible endpoint is a complete digital twin of Earth with total spatiotemporal awareness. Its production would involve both a Livemap for ingesting live data sources and their real-time scraping, cleaning, and analysis (focused on ORBATs, logistics, geopol, and finance), as well as Histmap (historical map) for historical economics, demography, and politics.
 
-If we live in an information economy, there is a logical endpoint to it - a digital twin of Earth with total spatiotemporal awareness. Our primary advantage in racing to build this crystal ball, hazy as it may be, is that no one else has realised it is the endgoal yet. And because no one on the internet can be convinced, no one will.
+If we live in an information economy, an information-complete picture is the only logical endpoint. Our primary advantage in racing to build this crystal ball, hazy as it may be, is that no one else has realised it is the endgoal yet. And because no one on the internet can be convinced, no one will.
 
 We, the minimally competent, have to be the open-source vanguard. Better us than some corpo.
 ## Infrastructure
@@ -81,7 +81,7 @@ Fortunately, the tooling and infrastructure we have developed is positioned to d
 - Socialisation and Marketing: simply a no-go. No one is interested in what we have to say. Our strategy must then be to show, not tell, and in select forums, once core capabilities have been automated.
 ## Action Plans
 
-Knowing what we know now, what can we do? The most important thing is to retain flexibility without sacrificing the integrity of our tech stack in this current fast-moving information environment. We must continue down the path of the mythical manmonth. Vendor lockouts, infosphere pollution, 
+Knowing what we know now, what can we do? The most important thing is to retain flexibility without sacrificing the integrity of our tech stack in this current fast-moving information environment. We must continue down the path of the mythical manmonth. Vendor lockouts, infosphere pollution, and increasing passivity is rendering the internet uninhabitable, likely by late 2027-2028.
 
 **What does this mean in practice?**
 
