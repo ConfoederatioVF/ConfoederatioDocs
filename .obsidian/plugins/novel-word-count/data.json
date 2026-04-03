@@ -2179,7 +2179,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1764957389862,
-      "modifiedDate": 1774569742082,
+      "modifiedDate": 1774970656831,
       "sizeInBytes": 5910,
       "sessionStart": {
         "noteCount": 1,
@@ -6241,6 +6241,33 @@
       "createdDate": 1774567980020,
       "modifiedDate": 1774567980031,
       "sizeInBytes": 1992135,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CRD (Confoederatio, Research Division)/Plans/Naissance/2.0 Mediterranean Plan.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 142,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 999,
+      "nonWhitespaceCharacterCount": 842,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.5358490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774970238349,
+      "modifiedDate": 1774970870016,
+      "sizeInBytes": 999,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
