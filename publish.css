@@ -24,3 +24,4 @@ img {
 .internal-embed.markdown-embed.is-loaded {
 	padding-left: 0.5rem;
 }
+.top-notice { display: none; }
