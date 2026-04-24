@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2.0 Mediterranean Plan"
             }
+          },
+          {
+            "id": "68d4d442e1bb623b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Geacron Polygons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get Geacron Polygons"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "62ca19e64e25b570",
@@ -117,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vercengen versions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRD (Confoederatio, Research Division)/Plans/Naissance/2.0 Mediterranean Plan.md",
+                "file": "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Geacron Polygons.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2.0 Mediterranean Plan"
+              "title": "Rückverweise auf Get Geacron Polygons"
             }
           },
           {
@@ -249,16 +263,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d4bbfdd8cb7656a",
+  "active": "68d4d442e1bb623b",
   "lastOpenFiles": [
-    "Home.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get GlobalFishingWatch Data.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Geacron Polygons.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get AIS Friends Naval Vessels.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Points.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Convert USNI Robinson To Equirectangular.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Collation Libraries.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/ML Georeferencer.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get MarineTraffic Naval Vessels.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
+    "CRD (Confoederatio, Research Division)/Documentation/Notes/Geometry Extraction - Polygons.md",
     "CRD (Confoederatio, Research Division)/Plans/Naissance/2.0 Mediterranean Plan.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Releases.md",
+    "Home.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance Roadmap.md",
     "📰 Blogs/26 December 2025 - What Is A Graph, Anyway.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get Leaflet Map Objects - Tampermonkey.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get MarineTraffic Naval Vessels.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get GlobalFishingWatch Data.md",
     "📰 Blogs/26 March 2026 - Trace Italienne.md",
     "📰 Blogs/19 February 2026 - Minimally Competent.md",
     "CRD (Confoederatio, Research Division)/Documentation/Software/Naissance HGIS/Naissance HGIS.md",
@@ -266,12 +287,9 @@
     "📰 Blogs/Unbenannt",
     "CRD (Confoederatio, Research Division)/Documentation/Histmap/Complex Data Schema.md",
     "📰 Blogs/Blogs.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/ML Georeferencer.md",
     "2026-03-13.md",
     "CRD (Confoederatio, Research Division)/Documentation/Livemap/Livemap Data Schema.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Plans/Vercengen Blacktraffic.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Get AIS Friends Naval Vessels.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Convert USNI Robinson To Equirectangular.md",
     "🔵 Confoederatio/Confoederatio Backlog.md",
     "CTD (Confoederatio, Technical Division)/Documentation/Technical (Frontend)/Vercengen/Vercengen Plans.md",
     "CRD (Confoederatio, Research Division)/Documentation/Livemap",
@@ -279,10 +297,6 @@
     "Pasted image 20260219060951.png",
     "_images/crd/collation",
     "_images/crd/collation/lab_space_knn_binning.png",
-    "📰 Blogs/9 February 2026 - Logistics Policy. Invented There.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Bar Chart.md",
-    "CTD (Confoederatio, Technical Division)/Documentation/Technical (Backend)/External Dependencies/Echarts/Graph Symbols/Echarts Pie Chart.md",
-    "CRD (Confoederatio, Research Division)/Documentation/Notes/Collation Libraries.md",
     "CRD (Confoederatio, Research Division)/Documentation/Notes",
     "_images/crd/naissance/naissance_1.7b_chukchi.png",
     "_images/crd/cliopatria",
